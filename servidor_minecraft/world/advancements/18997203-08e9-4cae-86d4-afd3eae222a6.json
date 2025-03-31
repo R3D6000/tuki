@@ -3607,6 +3607,7 @@
       "baked_potato": "2025-03-31 04:23:33 +0000",
       "apple": "2025-03-31 04:16:02 +0000",
       "bread": "2025-03-31 04:01:50 +0000",
+      "cookie": "2025-03-31 21:38:42 +0000",
       "cooked_chicken": "2025-03-31 03:53:21 +0000"
     },
     "done": false
@@ -9192,6 +9193,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-31 20:26:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/cookie": {
+    "criteria": {
+      "has_cookie": "2025-03-31 21:38:39 +0000"
     },
     "done": true
   },
