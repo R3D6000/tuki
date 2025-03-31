@@ -1058,6 +1058,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "larch_log": "2025-03-31 22:59:04 +0000",
       "pine_log": "2025-03-31 02:36:01 +0000"
     },
     "done": false
@@ -8278,9 +8279,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-03-31 22:56:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/red_bed_from_wool": {
+    "criteria": {
+      "has_red_wool": "2025-03-31 22:50:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-03-31 20:53:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-03-31 22:56:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_wood": {
+    "criteria": {
+      "has_log": "2025-03-31 22:59:04 +0000"
     },
     "done": true
   },
@@ -8380,6 +8405,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/red_cushion": {
+    "criteria": {
+      "has_red_cushion": "2025-03-31 22:50:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-31 22:02:50 +0000"
@@ -8413,6 +8444,12 @@
   "mcda:recipes/base_armors/turtle_armor_helmet": {
     "criteria": {
       "has_leather": "2025-03-31 21:05:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_larch": {
+    "criteria": {
+      "has_planks": "2025-03-31 22:59:17 +0000"
     },
     "done": true
   },
@@ -8506,6 +8543,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-03-31 22:56:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2025-03-31 20:34:21 +0000"
@@ -8551,6 +8594,12 @@
   "stoneworks:recipes/building_blocks/diorite_shingle_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-31 22:02:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_stairs": {
+    "criteria": {
+      "has_larch_planks": "2025-03-31 22:59:17 +0000"
     },
     "done": true
   },
@@ -8680,9 +8729,27 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_red_wool": "2025-03-31 22:50:57 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/fire_protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-03-31 21:57:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-03-31 22:56:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-03-31 22:56:34 +0000"
     },
     "done": true
   },
@@ -8773,6 +8840,18 @@
   "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-03-31 20:37:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-03-31 22:50:57 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_red_wool": "2025-03-31 22:50:57 +0000"
     },
     "done": true
   },
@@ -8926,6 +9005,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/daggers/dagger_shear_dagger": {
+    "criteria": {
+      "has_shears": "2025-03-31 22:50:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-03-31 20:37:17 +0000"
@@ -8959,6 +9044,12 @@
   "techreborn:recipes/misc/crafting_table/storage_block/peridot_storage_block": {
     "criteria": {
       "has_peridot_gem": "2025-03-31 20:11:28 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-03-31 22:56:34 +0000"
     },
     "done": true
   },
@@ -9007,6 +9098,12 @@
   "stoneworks:recipes/building_blocks/diorite_plate_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-31 22:02:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-03-31 22:56:32 +0000"
     },
     "done": true
   },
@@ -9148,6 +9245,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/larch_slab": {
+    "criteria": {
+      "has_larch_planks": "2025-03-31 22:59:17 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/nugget/lead_nugget": {
     "criteria": {
       "has_lead_ingot": "2025-03-31 20:57:57 +0000"
@@ -9220,6 +9323,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/larch_trapdoor": {
+    "criteria": {
+      "has_larch_planks": "2025-03-31 22:59:17 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_brick_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-31 20:46:10 +0000"
@@ -9286,6 +9395,12 @@
     },
     "done": true
   },
+  "oxidized:recipes/copper_trap": {
+    "criteria": {
+      "has_flint": "2025-03-31 22:56:32 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pedestal": {
     "criteria": {
       "has_stone_bricks": "2025-03-31 20:36:45 +0000"
@@ -9313,6 +9428,12 @@
   "create:recipes/misc/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2025-03-31 20:34:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_fence_gate": {
+    "criteria": {
+      "has_larch_planks": "2025-03-31 22:59:17 +0000"
     },
     "done": true
   },
@@ -9370,6 +9491,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-03-31 22:56:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-03-31 20:46:10 +0000"
@@ -9424,6 +9551,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/larch_fence": {
+    "criteria": {
+      "has_larch_planks": "2025-03-31 22:59:17 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/manual": {
     "criteria": {
       "has_book": "2025-03-31 21:57:06 +0000"
@@ -9457,6 +9590,12 @@
   "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-03-31 22:02:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_nugget_from_sword": {
+    "criteria": {
+      "has_golden_sword": "2025-03-31 22:55:50 +0000"
     },
     "done": true
   },
@@ -9529,6 +9668,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-03-31 20:31:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-03-31 22:50:57 +0000"
     },
     "done": true
   },
@@ -9745,6 +9890,12 @@
   "soulsweapons:recipes/decorations/chungus_monolith": {
     "criteria": {
       "has_item": "2025-03-31 21:05:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_planks": {
+    "criteria": {
+      "has_logs": "2025-03-31 22:59:04 +0000"
     },
     "done": true
   },
@@ -10402,6 +10553,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-03-31 22:50:57 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/basalt_blocks/smooth_basalt_bricks_stonecutting": {
     "criteria": {
       "has_item": "2025-03-31 20:26:43 +0000"
@@ -10438,6 +10595,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/red_sheet": {
+    "criteria": {
+      "has_red_sheet": "2025-03-31 22:50:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-03-31 20:36:45 +0000"
@@ -10453,6 +10616,12 @@
   "betterend:recipes/misc/frost_walker_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-03-31 21:57:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_door": {
+    "criteria": {
+      "has_larch_planks": "2025-03-31 22:59:17 +0000"
     },
     "done": true
   },
@@ -10477,6 +10646,12 @@
   "betternether:recipes/building_blocks/mushroom_fir_bookshelf": {
     "criteria": {
       "has_book": "2025-03-31 21:57:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_shrub": {
+    "criteria": {
+      "has_larch_sapling": "2025-03-31 22:59:05 +0000"
     },
     "done": true
   },
@@ -10624,6 +10799,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-03-31 22:56:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-03-31 22:02:50 +0000"
@@ -10732,6 +10913,12 @@
     },
     "done": true
   },
+  "vinery:recipes/vinemaker_apron": {
+    "criteria": {
+      "has_red_wool": "2025-03-31 22:50:57 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_tile_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-31 20:46:10 +0000"
@@ -10834,6 +11021,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/larch_button": {
+    "criteria": {
+      "has_larch_planks": "2025-03-31 22:59:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-03-31 20:46:10 +0000"
@@ -10849,6 +11042,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-03-31 20:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-03-31 22:56:32 +0000"
     },
     "done": true
   },
@@ -10960,6 +11159,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/red_sleeping_bag": {
+    "criteria": {
+      "has_red_wool": "2025-03-31 22:50:57 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_brick_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-31 20:46:10 +0000"
@@ -10993,6 +11198,12 @@
   "betterend:recipes/misc/silk_touch_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-03-31 21:57:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_glass_smelting": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-03-31 22:56:34 +0000"
     },
     "done": true
   },
@@ -11422,6 +11633,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/larch_pressure_plate": {
+    "criteria": {
+      "has_larch_planks": "2025-03-31 22:59:17 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_diorite_brick_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-31 22:02:50 +0000"
@@ -11431,6 +11648,12 @@
   "handcrafted:recipes/misc/stackable_book": {
     "criteria": {
       "has_stackable_book": "2025-03-31 21:57:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile": {
+    "criteria": {
+      "has_blue_obsidian": "2025-03-31 22:56:34 +0000"
     },
     "done": true
   },
@@ -11461,6 +11684,12 @@
   "twigs:recipes/basalt_blocks/smooth_basalt_bricks": {
     "criteria": {
       "has_item": "2025-03-31 20:26:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_branch_from_larch_log": {
+    "criteria": {
+      "has_log": "2025-03-31 22:59:04 +0000"
     },
     "done": true
   },
@@ -11506,9 +11735,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/misc_block/gravel": {
+    "criteria": {
+      "has_flint": "2025-03-31 22:56:32 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/mending_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-03-31 21:57:06 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-03-31 22:53:59 +0000"
     },
     "done": true
   },
@@ -11730,6 +11971,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/blue_obsidian_rod_tiles_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-03-31 22:56:34 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/sweeping_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-03-31 21:57:06 +0000"
@@ -11781,6 +12028,12 @@
   "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-03-31 22:02:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_sign": {
+    "criteria": {
+      "has_larch_planks": "2025-03-31 22:59:17 +0000"
     },
     "done": true
   },
