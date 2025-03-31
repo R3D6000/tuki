@@ -717,6 +717,7 @@
       "minecraft:lukewarm_ocean": "2025-03-31 04:41:15 +0000",
       "minecraft:cold_ocean": "2025-03-31 03:57:12 +0000",
       "minecraft:forest": "2025-03-31 03:55:30 +0000",
+      "minecraft:lush_caves": "2025-03-31 20:19:52 +0000",
       "minecraft:ocean": "2025-03-31 04:40:32 +0000",
       "minecraft:windswept_savanna": "2025-03-31 04:32:41 +0000",
       "minecraft:flower_forest": "2025-03-31 05:02:45 +0000",
@@ -8136,6 +8137,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-31 20:19:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-31 20:19:36 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/skeleton": {
     "criteria": {
       "has_arrow": "2025-03-31 20:13:04 +0000"
@@ -8178,6 +8191,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-31 20:19:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-31 20:19:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/red_garnet_storage_block": {
     "criteria": {
       "has_red_garnet_gem": "2025-03-31 20:13:20 +0000"
@@ -8199,6 +8224,12 @@
   "techreborn:recipes/misc/crafting_table/armor/peridot_leggings": {
     "criteria": {
       "has_peridot_gem": "2025-03-31 20:11:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-31 20:19:36 +0000"
     },
     "done": true
   },
@@ -8232,6 +8263,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-31 20:19:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-31 20:19:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/sapphire_axe": {
     "criteria": {
       "has_sapphire_gem": "2025-03-31 20:11:23 +0000"
@@ -8241,6 +8284,12 @@
   "techreborn:recipes/misc/crafting_table/armor/sapphire_helmet": {
     "criteria": {
       "has_sapphire_gem": "2025-03-31 20:11:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-31 20:19:36 +0000"
     },
     "done": true
   },
@@ -8256,6 +8305,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-31 20:19:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/flint_from_gravel": {
+    "criteria": {
+      "has_gravel": "2025-03-31 20:19:29 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/sapphire_pickaxe": {
     "criteria": {
       "has_sapphire_gem": "2025-03-31 20:11:23 +0000"
@@ -8268,9 +8329,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-03-31 20:19:29 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/ruby_spade": {
     "criteria": {
       "has_ruby_gem": "2025-03-31 20:13:19 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/verglas": {
+    "criteria": {
+      "has_item": "2025-03-31 20:24:24 +0000"
     },
     "done": true
   },
@@ -8280,9 +8353,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-31 20:19:36 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/grim_armor_chestplate": {
     "criteria": {
       "has_bone": "2025-03-31 20:13:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-31 20:19:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-31 20:19:36 +0000"
     },
     "done": true
   },
@@ -8358,15 +8449,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-31 20:19:36 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/scythes/scythe_skull_scythe": {
     "criteria": {
       "has_bone": "2025-03-31 20:13:04 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-31 20:19:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/sapphire_spade": {
     "criteria": {
       "has_sapphire_gem": "2025-03-31 20:11:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-03-31 20:20:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-03-31 20:19:29 +0000"
     },
     "done": true
   },
@@ -8382,6 +8497,24 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/building_blocks/verglas_block": {
+    "criteria": {
+      "has_item": "2025-03-31 20:24:24 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:verglas": {
+    "criteria": {
+      "verglas": "2025-03-31 20:24:24 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/sting": {
+    "criteria": {
+      "has_item": "2025-03-31 20:24:24 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/ruby_dust": {
     "criteria": {
       "has_tag_c_rubies": "2025-03-31 20:13:19 +0000"
@@ -8391,6 +8524,24 @@
   "techreborn:recipes/grinder/red_garnet_dust": {
     "criteria": {
       "has_tag_c_red_garnet_gems": "2025-03-31 20:13:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-31 20:19:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/limestone_pillar_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-31 20:19:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-03-31 20:20:12 +0000"
     },
     "done": true
   },
@@ -8436,15 +8587,45 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-31 20:19:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-31 20:19:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/ruby_boots": {
     "criteria": {
       "has_ruby_gem": "2025-03-31 20:13:19 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-03-31 20:20:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-31 20:19:36 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/creeper": {
     "criteria": {
       "has_gunpowder": "2025-03-31 20:07:55 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/gravel_bricks/gravel_bricks": {
+    "criteria": {
+      "has_item": "2025-03-31 20:19:29 +0000"
     },
     "done": true
   },
@@ -8478,6 +8659,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/skofnung_stone": {
+    "criteria": {
+      "has_item": "2025-03-31 20:24:24 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/sapphire_boots": {
     "criteria": {
       "has_sapphire_gem": "2025-03-31 20:11:23 +0000"
@@ -8507,6 +8694,12 @@
   "croptopia:recipes/misc/peach_sapling": {
     "criteria": {
       "has_peach": "2025-03-31 20:09:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-03-31 20:19:29 +0000"
     },
     "done": true
   },
