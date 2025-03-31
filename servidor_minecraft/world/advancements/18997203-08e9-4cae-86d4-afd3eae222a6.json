@@ -8314,6 +8314,18 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_brown_wool": "2025-03-31 23:10:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_cushion": {
+    "criteria": {
+      "has_gray_cushion": "2025-03-31 23:11:35 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/larch_wood": {
     "criteria": {
       "has_log": "2025-03-31 22:59:04 +0000"
@@ -8548,6 +8560,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-03-31 23:11:35 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/maple_stairs": {
     "criteria": {
       "has_maple_planks": "2025-03-31 21:46:50 +0000"
@@ -8638,6 +8656,12 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/vanilla_piles/spruce_leaf": {
+    "criteria": {
+      "has_leaves": "2025-03-31 23:12:09 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2025-03-31 21:05:06 +0000"
@@ -8707,6 +8731,12 @@
   "betternether:recipes/misc/farmland": {
     "criteria": {
       "has_soul_sand": "2025-03-31 22:40:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_leaves": {
+    "criteria": {
+      "has_leaves": "2025-03-31 23:12:09 +0000"
     },
     "done": true
   },
@@ -9094,6 +9124,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/brown_cushion": {
+    "criteria": {
+      "has_brown_cushion": "2025-03-31 23:10:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-03-31 21:05:13 +0000"
@@ -9115,6 +9151,12 @@
   "mcdw:recipes/soul_daggers/soul_dagger_soul_knife": {
     "criteria": {
       "has_soul_lantern": "2025-03-31 21:11:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-03-31 23:10:32 +0000"
     },
     "done": true
   },
@@ -9574,6 +9616,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/brown_sheet": {
+    "criteria": {
+      "has_brown_sheet": "2025-03-31 23:10:32 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/teleportation_robe_chestplate": {
     "criteria": {
       "has_copper_ingot": "2025-03-31 20:34:21 +0000"
@@ -9862,6 +9910,12 @@
     },
     "done": true
   },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-03-31 23:11:35 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_paver_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-31 22:02:50 +0000"
@@ -9937,6 +9991,12 @@
   "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-03-31 20:19:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/brown_bed_from_wool": {
+    "criteria": {
+      "has_brown_wool": "2025-03-31 23:10:32 +0000"
     },
     "done": true
   },
@@ -10165,6 +10225,12 @@
   "soulsweapons:recipes/misc/lost_soul": {
     "criteria": {
       "has_item": "2025-03-31 22:40:37 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/vinemaker_boots": {
+    "criteria": {
+      "has_brown_wool": "2025-03-31 23:10:32 +0000"
     },
     "done": true
   },
@@ -10456,6 +10522,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/assembling_machine/gray_bed_from_wool": {
+    "criteria": {
+      "has_gray_wool": "2025-03-31 23:11:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_engine": {
     "criteria": {
       "has_item": "2025-03-31 20:34:21 +0000"
@@ -10483,6 +10555,12 @@
   "techreborn:recipes/misc/crafting_table/tool/sapphire_spade": {
     "criteria": {
       "has_sapphire_gem": "2025-03-31 20:11:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-03-31 23:11:35 +0000"
     },
     "done": true
   },
@@ -10711,6 +10789,12 @@
   "croptopia:recipes/corn_husk": {
     "criteria": {
       "has_corn": "2025-03-31 20:53:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
+    "criteria": {
+      "has_gray_wool": "2025-03-31 23:11:35 +0000"
     },
     "done": true
   },
@@ -11104,6 +11188,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-03-31 23:11:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-03-31 20:19:36 +0000"
@@ -11344,6 +11434,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-03-31 23:10:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2025-03-31 20:34:21 +0000"
@@ -11521,6 +11617,12 @@
   "stoneworks:recipes/building_blocks/mossy_diorite_bricks_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-31 22:02:50 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_brown_wool": "2025-03-31 23:10:32 +0000"
     },
     "done": true
   },
@@ -11722,6 +11824,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/brown_sleeping_bag": {
+    "criteria": {
+      "has_brown_wool": "2025-03-31 23:10:32 +0000"
+    },
+    "done": true
+  },
   "oxidized:recipes/copper_pan": {
     "criteria": {
       "has_copper_block": "2025-03-31 20:34:21 +0000"
@@ -11884,6 +11992,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-03-31 23:11:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-03-31 21:05:40 +0000"
@@ -11911,6 +12025,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-31 21:41:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-03-31 23:10:32 +0000"
     },
     "done": true
   },
@@ -12234,6 +12354,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/gray_sheet": {
+    "criteria": {
+      "has_gray_sheet": "2025-03-31 23:11:35 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/thorns_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-03-31 21:57:06 +0000"
@@ -12377,6 +12503,12 @@
       "has_bone_block": "2025-03-31 21:04:28 +0000"
     },
     "done": true
+  },
+  "promenade:recipes/crafting/vanilla_snowy_leaves/spruce": {
+    "criteria": {
+      "has_leaves": "2025-03-31 23:12:09 +0000"
+    },
+    "done": false
   },
   "betterend:recipes/misc/multishot_book": {
     "criteria": {
