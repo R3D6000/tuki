@@ -3754,3 +3754,4 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [21:03:02] [Server thread/INFO]: Named entity class_1646['Herb'/115, l='ServerLevel[world]', x=977.42, y=60.05, z=160.56] died: Herb drowned
 [21:04:14] [Server thread/INFO]: Wesnoth24 has made the advancement [Disturbing the Dead I]
 [21:07:56] [Worker-Main-15/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[21:13:56] [Server thread/INFO]: Wesnoth24 has made the advancement [Spooky Scary Skeleton]
