@@ -8392,6 +8392,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-03-31 22:40:37 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/skeleton": {
     "criteria": {
       "has_arrow": "2025-03-31 20:13:04 +0000"
@@ -8626,6 +8632,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/farmland": {
+    "criteria": {
+      "has_soul_sand": "2025-03-31 22:40:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-03-31 22:02:50 +0000"
@@ -8641,6 +8653,12 @@
   "travelersbackpack:recipes/misc/standard_smithing": {
     "criteria": {
       "has_standard": "2025-03-31 21:43:52 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_helmet": {
+    "criteria": {
+      "has_soul_sand": "2025-03-31 22:40:37 +0000"
     },
     "done": true
   },
@@ -8716,6 +8734,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_soul_hunter": {
+    "criteria": {
+      "has_soul_sand": "2025-03-31 22:40:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-31 21:41:13 +0000"
@@ -8785,6 +8809,12 @@
   "mcda:recipes/upgrade_cores/upgrade_core_archer": {
     "criteria": {
       "has_core_specification_item": "2025-03-31 20:13:04 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_leggings": {
+    "criteria": {
+      "has_soul_sand": "2025-03-31 22:40:37 +0000"
     },
     "done": true
   },
@@ -8902,6 +8932,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-03-31 22:40:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
     "criteria": {
       "has_diamond_ore": "2025-03-31 21:15:47 +0000"
@@ -8983,6 +9019,12 @@
   "regions_unexplored:recipes/decorations/maple_fence": {
     "criteria": {
       "has_maple_planks": "2025-03-31 21:46:50 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/brick_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-03-31 22:40:37 +0000"
     },
     "done": true
   },
@@ -9148,6 +9190,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-03-31 22:40:37 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/sapphire_helmet": {
     "criteria": {
       "has_sapphire_gem": "2025-03-31 20:11:23 +0000"
@@ -9199,6 +9247,12 @@
   "betternether:recipes/building_blocks/basalt_brick_stairs_from_smooth_stonecutting": {
     "criteria": {
       "has_block.minecraft.smooth_basalt": "2025-03-31 20:26:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-03-31 22:40:37 +0000"
     },
     "done": true
   },
@@ -9280,6 +9334,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/soul_sand": {
+    "criteria": {
+      "has_soul_sand": "2025-03-31 22:40:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-31 20:26:40 +0000"
@@ -9337,6 +9397,12 @@
   "stoneworks:recipes/building_blocks/granite_shingle_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-31 20:46:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-03-31 22:40:37 +0000"
     },
     "done": true
   },
@@ -9496,6 +9562,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-03-31 22:40:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-03-31 20:36:45 +0000"
@@ -9517,6 +9589,12 @@
   "croptopia:recipes/stuffed_poblanos": {
     "criteria": {
       "has_corn": "2025-03-31 20:53:07 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bricks_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-03-31 22:40:37 +0000"
     },
     "done": true
   },
@@ -9718,9 +9796,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-03-31 22:40:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-03-31 20:19:36 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_boots": {
+    "criteria": {
+      "has_soul_sand": "2025-03-31 22:40:37 +0000"
     },
     "done": true
   },
@@ -9850,6 +9940,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/lost_soul": {
+    "criteria": {
+      "has_item": "2025-03-31 22:40:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-03-31 21:05:13 +0000"
@@ -9964,6 +10060,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/soul_sand_soul_sandstone": {
+    "criteria": {
+      "has_soul_sand": "2025-03-31 22:40:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-03-31 20:31:27 +0000"
@@ -9985,6 +10087,12 @@
   "techreborn:recipes/centrifuge/raw_silver": {
     "criteria": {
       "has_raw_silver_ores": "2025-03-31 20:10:44 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_soul": {
+    "criteria": {
+      "has_core_specification_item": "2025-03-31 22:40:37 +0000"
     },
     "done": true
   },
@@ -10111,6 +10219,12 @@
   "croptopia:recipes/shaped_shepherds_pie": {
     "criteria": {
       "has_corn": "2025-03-31 20:53:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-03-31 22:40:37 +0000"
     },
     "done": true
   },
@@ -10606,6 +10720,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/tanks_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-03-31 22:40:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-03-31 22:02:50 +0000"
@@ -10756,6 +10876,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-03-31 22:40:37 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/string_from_bow": {
     "criteria": {
       "has_bow": "2025-03-31 21:01:44 +0000"
@@ -10843,6 +10969,12 @@
   "create:recipes/misc/crafting/materials/raw_zinc_block": {
     "criteria": {
       "has_item": "2025-03-31 20:20:12 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-03-31 22:40:37 +0000"
     },
     "done": true
   },
@@ -11182,6 +11314,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/soul_robe_chestplate": {
+    "criteria": {
+      "has_soul_sand": "2025-03-31 22:40:37 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/soul_daggers/soul_dagger_eternal_knife": {
     "criteria": {
       "has_amethyst_shard": "2025-03-31 20:39:30 +0000"
@@ -11215,6 +11353,12 @@
   "techreborn:recipes/misc/smelting/tin_ingot_from_c_raw_tin_ores": {
     "criteria": {
       "has_tag_c_raw_tin_ores": "2025-03-31 20:13:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-03-31 22:40:37 +0000"
     },
     "done": true
   },

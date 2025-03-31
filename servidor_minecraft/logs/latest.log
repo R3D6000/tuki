@@ -4112,3 +4112,5 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [22:18:07] [Server thread/INFO]: Wesnoth24 has made the advancement [Playing with fire]
 [22:18:07] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: wizards:fire isComplete: false
 [22:18:12] [Server thread/INFO]: Wesnoth24 has made the advancement [Path of Light]
+[22:43:04] [Server thread/INFO]: Villager class_1646['Efrain'/24941, l='ServerLevel[world]', x=1139.57, y=70.00, z=13.97] died, message: 'Efrain hit the ground too hard'
+[22:43:04] [Server thread/INFO]: Named entity class_1646['Efrain'/24941, l='ServerLevel[world]', x=1139.57, y=70.00, z=13.97] died: Efrain fell from a high place
