@@ -3042,3 +3042,5 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
 [20:24:24] [Server thread/INFO]: Wesnoth24 has made the advancement [False Water]
+[20:33:39] [Server thread/INFO]: Wesnoth24 has made the advancement [Chest Slayer]
+[20:33:57] [Server thread/INFO]: Wesnoth24 has made the advancement [Tunnel Treasures]
