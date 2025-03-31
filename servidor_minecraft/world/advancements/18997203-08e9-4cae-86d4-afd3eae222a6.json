@@ -3065,6 +3065,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-31 05:04:10 +0000",
       "minecraft:spider": "2025-03-31 05:05:02 +0000",
+      "minecraft:creeper": "2025-03-31 20:59:20 +0000",
       "minecraft:cave_spider": "2025-03-31 03:47:01 +0000",
       "minecraft:zombie": "2025-03-31 02:39:49 +0000",
       "minecraft:drowned": "2025-03-31 02:51:37 +0000"
@@ -8138,6 +8139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-31 21:05:13 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/ruby_leggings": {
     "criteria": {
       "has_ruby_gem": "2025-03-31 20:13:19 +0000"
@@ -8177,6 +8184,12 @@
   "betternether:recipes/building_blocks/basalt_brick_wall_from_smooth_stonecutting": {
     "criteria": {
       "has_block.minecraft.smooth_basalt": "2025-03-31 20:26:43 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2025-03-31 20:56:54 +0000"
     },
     "done": true
   },
@@ -8306,6 +8319,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/blue_dye_from_lapis_lazuli": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-31 20:56:54 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/blasting/tin_ingot_from_c_raw_tin_ores": {
     "criteria": {
       "has_tag_c_raw_tin_ores": "2025-03-31 20:13:17 +0000"
@@ -8336,6 +8355,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-31 21:05:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-03-31 20:07:55 +0000"
@@ -8357,6 +8382,12 @@
   "croptopia:recipes/candied_nuts": {
     "criteria": {
       "has_the_recipe": "2025-03-31 20:53:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-03-31 21:05:06 +0000"
     },
     "done": true
   },
@@ -8396,6 +8427,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2025-03-31 20:56:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-31 20:26:40 +0000"
@@ -8420,6 +8457,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_covered_blue": {
+    "criteria": {
+      "has_dyes/black": "2025-03-31 20:56:54 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/ruby_helmet": {
     "criteria": {
       "has_ruby_gem": "2025-03-31 20:13:19 +0000"
@@ -8435,6 +8478,12 @@
   "create:recipes/building_blocks/cut_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-03-31 20:19:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-31 21:05:13 +0000"
     },
     "done": true
   },
@@ -8498,9 +8547,21 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2025-03-31 20:56:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-03-31 20:46:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-31 20:56:54 +0000"
     },
     "done": true
   },
@@ -8528,6 +8589,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-31 21:05:13 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/basalt_brick_from_smooth_stonecutting": {
     "criteria": {
       "has_block.minecraft.smooth_basalt": "2025-03-31 20:26:43 +0000"
@@ -8537,6 +8604,12 @@
   "create:recipes/decorations/copper_ladder_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-03-31 20:34:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-31 21:05:13 +0000"
     },
     "done": true
   },
@@ -8606,6 +8679,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/nugget/lead_nugget": {
+    "criteria": {
+      "has_lead_ingot": "2025-03-31 20:57:57 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/cog_block": {
     "criteria": {
       "has_copper_ingot": "2025-03-31 20:34:21 +0000"
@@ -8615,6 +8694,18 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-03-31 20:31:27 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_blue": {
+    "criteria": {
+      "has_dyes/black": "2025-03-31 20:56:54 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_blue": {
+    "criteria": {
+      "has_dyes/black": "2025-03-31 20:56:54 +0000"
     },
     "done": true
   },
@@ -8684,6 +8775,12 @@
     },
     "done": true
   },
+  "mcda:recipes/crafting_items/gemstone_blue": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-31 20:56:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2025-03-31 20:34:21 +0000"
@@ -8717,6 +8814,12 @@
   "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-03-31 20:46:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/lead_storage_block": {
+    "criteria": {
+      "has_lead_ingot": "2025-03-31 20:57:57 +0000"
     },
     "done": true
   },
@@ -8822,6 +8925,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/medium_graveyard": {
+    "criteria": {
+      "medium_graveyard": "2025-03-31 21:04:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-03-31 20:19:29 +0000"
@@ -8831,6 +8940,18 @@
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-03-31 20:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-31 20:56:54 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2025-03-31 20:56:54 +0000"
     },
     "done": true
   },
@@ -8858,6 +8979,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/golden_carrot": {
+    "criteria": {
+      "has_golden_carrot": "2025-03-31 21:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-31 21:05:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-03-31 20:46:10 +0000"
@@ -8870,6 +9003,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-31 21:05:13 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_paver_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-31 20:46:10 +0000"
@@ -8879,6 +9018,12 @@
   "soulsweapons:recipes/misc/verglas": {
     "criteria": {
       "has_item": "2025-03-31 20:24:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-31 20:56:54 +0000"
     },
     "done": true
   },
@@ -8924,9 +9069,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/decorations/chungus_monolith": {
+    "criteria": {
+      "has_item": "2025-03-31 21:05:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-31 20:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-31 21:05:13 +0000"
     },
     "done": true
   },
@@ -8996,6 +9153,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-31 21:05:13 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/basalt_blocks/smooth_basalt_brick_stairs_from_smooth_basalt_stonecutting": {
     "criteria": {
       "has_item": "2025-03-31 20:26:43 +0000"
@@ -9011,6 +9174,12 @@
   "immersive_armors:recipes/misc/bone": {
     "criteria": {
       "has_item": "2025-03-31 20:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-03-31 21:04:25 +0000"
     },
     "done": true
   },
@@ -9092,6 +9261,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-31 21:05:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-03-31 21:04:28 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/peridot_pickaxe": {
     "criteria": {
       "has_peridot_gem": "2025-03-31 20:11:28 +0000"
@@ -9113,6 +9294,12 @@
   "techreborn:recipes/centrifuge/raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-03-31 20:30:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/lead_plate": {
+    "criteria": {
+      "has_tag_c_lead_ingots": "2025-03-31 20:57:57 +0000"
     },
     "done": true
   },
@@ -9179,6 +9366,12 @@
   "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-03-31 20:19:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-03-31 21:04:28 +0000"
     },
     "done": true
   },
@@ -9278,6 +9471,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-31 21:05:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-03-31 20:36:45 +0000"
@@ -9302,6 +9501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-03-31 21:01:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-03-31 20:26:04 +0000"
@@ -9323,6 +9528,12 @@
   "soulsweapons:recipes/combat/sting": {
     "criteria": {
       "has_item": "2025-03-31 20:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-31 21:05:13 +0000"
     },
     "done": true
   },
@@ -9392,6 +9603,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/advanced_alloy_storage_block": {
+    "criteria": {
+      "has_advanced_alloy_ingot": "2025-03-31 20:58:05 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/storage_block/copper_wall_stonecutting": {
     "criteria": {
       "has_copper": "2025-03-31 20:34:21 +0000"
@@ -9413,6 +9630,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-03-31 20:53:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-31 21:05:13 +0000"
     },
     "done": true
   },
@@ -9464,6 +9687,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-31 21:05:13 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/crystal_display": {
     "criteria": {
       "has_amethyst_shard": "2025-03-31 20:39:30 +0000"
@@ -9512,9 +9741,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/string_from_bow": {
+    "criteria": {
+      "has_bow": "2025-03-31 21:01:44 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/ruby_boots": {
     "criteria": {
       "has_ruby_gem": "2025-03-31 20:13:19 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_bone_cudgel": {
+    "criteria": {
+      "has_bone_block": "2025-03-31 21:04:28 +0000"
     },
     "done": true
   },
@@ -9554,6 +9795,12 @@
     },
     "done": true
   },
+  "more_rpg_content:bow_way": {
+    "criteria": {
+      "items": "2025-03-31 21:01:44 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-31 20:46:10 +0000"
@@ -9566,6 +9813,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_blue": {
+    "criteria": {
+      "has_dyes/black": "2025-03-31 20:56:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2025-03-31 20:34:21 +0000"
@@ -9575,6 +9828,12 @@
   "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-03-31 20:19:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-31 20:56:54 +0000"
     },
     "done": true
   },
@@ -9671,6 +9930,12 @@
   "create:recipes/building_blocks/cut_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-03-31 20:37:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/archer_pottery_sherd": {
+    "criteria": {
+      "has_bow": "2025-03-31 21:01:44 +0000"
     },
     "done": true
   },
@@ -9806,6 +10071,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-31 21:05:13 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/basalt_blocks/smooth_basalt_bricks": {
     "criteria": {
       "has_item": "2025-03-31 20:26:43 +0000"
@@ -9845,6 +10116,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-31 20:46:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/advanced_alloy_plate": {
+    "criteria": {
+      "has_tag_c_advanced_alloy_ingots": "2025-03-31 20:58:05 +0000"
     },
     "done": true
   },
@@ -10024,6 +10301,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/battery/red_cell_battery": {
+    "criteria": {
+      "has_lead_ingot": "2025-03-31 20:57:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-31 20:26:40 +0000"
@@ -10096,15 +10379,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-31 20:56:54 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/chiseled_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-31 20:46:10 +0000"
     },
     "done": true
   },
+  "betterend:recipes/misc/dragon_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-03-31 21:04:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-03-31 20:30:46 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bn_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-03-31 21:04:28 +0000"
     },
     "done": true
   },
