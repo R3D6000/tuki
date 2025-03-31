@@ -4107,3 +4107,8 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[22:17:11] [Server thread/INFO]: Wesnoth24 has reached the goal [Choose your path]
+[22:17:57] [Server thread/INFO]: Wesnoth24 has made the advancement [Path of Fire]
+[22:18:07] [Server thread/INFO]: Wesnoth24 has made the advancement [Playing with fire]
+[22:18:07] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: wizards:fire isComplete: false
+[22:18:12] [Server thread/INFO]: Wesnoth24 has made the advancement [Path of Light]

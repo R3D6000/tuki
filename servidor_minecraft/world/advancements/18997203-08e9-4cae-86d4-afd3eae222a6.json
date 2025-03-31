@@ -8644,6 +8644,12 @@
     },
     "done": true
   },
+  "rpg_series:path_choose_fire": {
+    "criteria": {
+      "book": "2025-03-31 22:17:57 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/leather_to_stripes": {
     "criteria": {
       "has_leather": "2025-03-31 21:05:40 +0000"
@@ -10762,6 +10768,12 @@
     },
     "done": true
   },
+  "rpg_series:path_choose_priest": {
+    "criteria": {
+      "book": "2025-03-31 22:18:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/ruby_boots": {
     "criteria": {
       "has_ruby_gem": "2025-03-31 20:13:19 +0000"
@@ -10801,6 +10813,12 @@
   "magnumtorch:recipes/decorations/amethyst_magnum_torch": {
     "criteria": {
       "has_amethyst_shard": "2025-03-31 20:39:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_signs": {
+    "criteria": {
+      "has_tag_minecraft_signs": "2025-03-31 22:14:27 +0000"
     },
     "done": true
   },
@@ -10957,6 +10975,12 @@
   "create:copper": {
     "criteria": {
       "0": "2025-03-31 20:34:21 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:spell_novice_fire": {
+    "criteria": {
+      "bind": "2025-03-31 22:18:07 +0000"
     },
     "done": true
   },
@@ -11526,6 +11550,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_signs": {
+    "criteria": {
+      "has_tag_minecraft_signs": "2025-03-31 22:14:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-03-31 20:46:10 +0000"
@@ -11715,6 +11745,12 @@
   "mcda:recipes/base_armors/scale_mail_chestplate": {
     "criteria": {
       "has_leather_chestplate": "2025-03-31 21:08:19 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:classes": {
+    "criteria": {
+      "book": "2025-03-31 22:17:11 +0000"
     },
     "done": true
   },
