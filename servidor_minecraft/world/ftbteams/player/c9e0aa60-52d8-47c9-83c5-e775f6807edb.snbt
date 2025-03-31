@@ -1,0 +1,17 @@
+{
+	id: "c9e0aa60-52d8-47c9-83c5-e775f6807edb"
+	type: "player"
+	player_name: "zlWhitelz"
+	ranks: {
+		c9e0aa60-52d8-47c9-83c5-e775f6807edb: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "zlWhitelz"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF9259"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
