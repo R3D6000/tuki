@@ -8138,6 +8138,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-31 20:37:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-31 20:37:17 +0000"
+    },
+    "done": true
+  },
   "lootr:1cart": {
     "criteria": {
       "opened_cart": "2025-03-31 20:33:57 +0000"
@@ -8168,6 +8180,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-31 20:37:17 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/wrench": {
     "criteria": {
       "has_copper_ingot": "2025-03-31 20:34:21 +0000"
@@ -8180,9 +8198,33 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-31 20:39:30 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/cable/copper_cable": {
     "criteria": {
       "has_copper_ingot": "2025-03-31 20:34:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-31 20:37:17 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/featherlight": {
+    "criteria": {
+      "has_item": "2025-03-31 20:39:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-31 20:39:30 +0000"
     },
     "done": true
   },
@@ -8270,6 +8312,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-31 20:37:17 +0000"
+    },
+    "done": true
+  },
   "oxidized:recipes/copper_nugget": {
     "criteria": {
       "has_copper_block": "2025-03-31 20:34:21 +0000"
@@ -8318,6 +8366,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-31 20:37:17 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/loam": {
     "criteria": {
       "has_clay_ball": "2025-03-31 20:26:04 +0000"
@@ -8351,6 +8405,12 @@
   "techreborn:recipes/misc/crafting_table/tool/peridot_spade": {
     "criteria": {
       "has_peridot_gem": "2025-03-31 20:11:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-31 20:37:17 +0000"
     },
     "done": true
   },
@@ -8414,6 +8474,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-31 20:39:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-31 20:39:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-03-31 20:34:21 +0000"
@@ -8438,6 +8510,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-31 20:37:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2025-03-31 20:34:21 +0000"
@@ -8459,6 +8537,18 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-03-31 20:27:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-31 20:36:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-31 20:37:17 +0000"
     },
     "done": true
   },
@@ -8489,6 +8579,12 @@
   "mcda:recipes/base_armors/teleportation_robe_chestplate": {
     "criteria": {
       "has_copper_ingot": "2025-03-31 20:34:21 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/pocket_computer_advanced": {
+    "criteria": {
+      "has_apple": "2025-03-31 20:35:50 +0000"
     },
     "done": true
   },
@@ -8570,9 +8666,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-31 20:36:45 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/crystal_ball": {
+    "criteria": {
+      "has_item": "2025-03-31 20:39:30 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/ruby_spade": {
     "criteria": {
       "has_ruby_gem": "2025-03-31 20:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-31 20:39:13 +0000"
     },
     "done": true
   },
@@ -8660,6 +8774,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/swords/sword_the_starless_night": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-31 20:39:30 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/wolf": {
     "criteria": {
       "has_bone": "2025-03-31 20:13:04 +0000"
@@ -8699,6 +8819,12 @@
   "techreborn:recipes/misc/crafting_table/armor/peridot_chestplate": {
     "criteria": {
       "has_peridot_gem": "2025-03-31 20:11:28 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_backstabber": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-31 20:39:13 +0000"
     },
     "done": true
   },
@@ -8747,6 +8873,12 @@
   "techreborn:recipes/misc/crafting_table/tool/peridot_pickaxe": {
     "criteria": {
       "has_peridot_gem": "2025-03-31 20:11:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-31 20:37:17 +0000"
     },
     "done": true
   },
@@ -8822,6 +8954,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-31 20:39:30 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/building_blocks/verglas_block": {
     "criteria": {
       "has_item": "2025-03-31 20:24:24 +0000"
@@ -8849,6 +8987,12 @@
   "soulsweapons:verglas": {
     "criteria": {
       "verglas": "2025-03-31 20:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-31 20:36:45 +0000"
     },
     "done": true
   },
@@ -8888,9 +9032,21 @@
     },
     "done": true
   },
+  "mcda:recipes/crafting_items/gemstone_purple": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-31 20:39:30 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/red_garnet_dust": {
     "criteria": {
       "has_tag_c_red_garnet_gems": "2025-03-31 20:13:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-31 20:37:17 +0000"
     },
     "done": true
   },
@@ -8903,6 +9059,12 @@
   "create:recipes/building_blocks/limestone_pillar_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-03-31 20:19:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/golden_apple": {
+    "criteria": {
+      "has_golden_apple": "2025-03-31 20:35:50 +0000"
     },
     "done": true
   },
@@ -8984,6 +9146,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-31 20:39:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-03-31 20:19:36 +0000"
@@ -8993,6 +9161,12 @@
   "supplementaries:recipes/altimeter": {
     "criteria": {
       "has_copper_ingot": "2025-03-31 20:34:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-31 20:36:45 +0000"
     },
     "done": true
   },
@@ -9008,9 +9182,33 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/pocket_computer_normal": {
+    "criteria": {
+      "has_apple": "2025-03-31 20:35:50 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/ruby_boots": {
     "criteria": {
       "has_ruby_gem": "2025-03-31 20:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-31 20:39:30 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/amethyst_magnum_torch": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-31 20:39:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-31 20:37:17 +0000"
     },
     "done": true
   },
@@ -9092,6 +9290,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-31 20:37:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-31 20:37:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-31 20:26:40 +0000"
@@ -9125,6 +9335,12 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-03-31 20:27:46 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_eternal_knife": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-31 20:39:30 +0000"
     },
     "done": true
   },
@@ -9176,6 +9392,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-31 20:36:45 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/ruby_pickaxe": {
     "criteria": {
       "has_ruby_gem": "2025-03-31 20:13:19 +0000"
@@ -9188,9 +9410,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-31 20:37:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-31 20:37:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-31 20:26:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-31 20:37:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-31 20:37:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-31 20:37:17 +0000"
     },
     "done": true
   },
@@ -9214,9 +9466,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-31 20:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-31 20:36:45 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/storage_block/copper_wall": {
     "criteria": {
       "has_copper": "2025-03-31 20:34:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/globe_sepia": {
+    "criteria": {
+      "has_antique_ink": "2025-03-31 20:38:01 +0000"
     },
     "done": true
   },
@@ -9247,6 +9517,12 @@
   "croptopia:recipes/misc/peach_jam": {
     "criteria": {
       "has_peach": "2025-03-31 20:09:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-31 20:36:45 +0000"
     },
     "done": true
   },
@@ -9307,6 +9583,12 @@
   "mcda:recipes/base_armors/piglin_armor_helmet": {
     "criteria": {
       "has_bone": "2025-03-31 20:13:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-31 20:36:45 +0000"
     },
     "done": true
   },
