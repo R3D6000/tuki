@@ -1,0 +1,17 @@
+{
+	id: "18997203-08e9-4cae-86d4-afd3eae222a6"
+	type: "player"
+	player_name: "Wesnoth24"
+	ranks: {
+		18997203-08e9-4cae-86d4-afd3eae222a6: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Wesnoth24"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFD159"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
