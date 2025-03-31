@@ -588,10 +588,12 @@
       "barley_fields": "2025-03-31 04:43:58 +0000",
       "grassy_beach": "2025-03-31 02:32:57 +0000",
       "ochard": "2025-03-31 04:22:22 +0000",
+      "highland_fields": "2025-03-31 23:08:47 +0000",
       "maple_forest": "2025-03-31 03:54:52 +0000",
       "deciduous_forest": "2025-03-31 04:45:55 +0000",
       "boreal_forest": "2025-03-31 02:33:01 +0000",
       "towering_cliffs": "2025-03-31 04:22:57 +0000",
+      "temperate_grove": "2025-03-31 23:06:23 +0000",
       "cold_river": "2025-03-31 04:13:03 +0000",
       "pumpkin_fields": "2025-03-31 04:01:15 +0000",
       "grassland": "2025-03-31 04:41:58 +0000",
@@ -611,10 +613,12 @@
       "barley_fields": "2025-03-31 04:43:58 +0000",
       "grassy_beach": "2025-03-31 02:32:57 +0000",
       "ochard": "2025-03-31 04:22:22 +0000",
+      "highland_fields": "2025-03-31 23:08:47 +0000",
       "maple_forest": "2025-03-31 03:54:52 +0000",
       "deciduous_forest": "2025-03-31 04:45:55 +0000",
       "boreal_forest": "2025-03-31 02:33:01 +0000",
       "towering_cliffs": "2025-03-31 04:22:57 +0000",
+      "temperate_grove": "2025-03-31 23:06:23 +0000",
       "cold_river": "2025-03-31 04:13:03 +0000",
       "pumpkin_fields": "2025-03-31 04:01:15 +0000",
       "grassland": "2025-03-31 04:41:58 +0000",
@@ -721,6 +725,7 @@
       "minecraft:ocean": "2025-03-31 04:40:32 +0000",
       "minecraft:windswept_savanna": "2025-03-31 04:32:41 +0000",
       "minecraft:flower_forest": "2025-03-31 05:02:45 +0000",
+      "minecraft:meadow": "2025-03-31 23:09:50 +0000",
       "minecraft:savanna": "2025-03-31 04:54:55 +0000",
       "minecraft:plains": "2025-03-31 03:56:39 +0000"
     },
@@ -8159,6 +8164,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/cyan_sleeping_bag": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-31 23:10:27 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/ruby_leggings": {
     "criteria": {
       "has_ruby_gem": "2025-03-31 20:13:19 +0000"
@@ -8423,6 +8434,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-31 23:10:27 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-03-31 22:40:37 +0000"
@@ -8516,6 +8533,12 @@
   "techreborn:recipes/crafting_table/cable/glassfiber_cable_6": {
     "criteria": {
       "has_raw_silver": "2025-03-31 20:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-03-31 23:09:25 +0000"
     },
     "done": true
   },
@@ -8813,6 +8836,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-03-31 23:09:25 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/ruby_helmet": {
     "criteria": {
       "has_ruby_gem": "2025-03-31 20:13:19 +0000"
@@ -8888,6 +8917,12 @@
   "mcda:recipes/upgrade_cores/upgrade_core_archer": {
     "criteria": {
       "has_core_specification_item": "2025-03-31 20:13:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/magma_cream": {
+    "criteria": {
+      "has_slime_ball": "2025-03-31 23:09:25 +0000"
     },
     "done": true
   },
@@ -9437,6 +9472,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/cyan_sheet": {
+    "criteria": {
+      "has_cyan_sheet": "2025-03-31 23:10:27 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/goat_gear_chestplate": {
     "criteria": {
       "has_leather_chestplate": "2025-03-31 21:08:19 +0000"
@@ -9614,6 +9655,18 @@
   "stoneworks:recipes/building_blocks/granite_tile_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-31 20:46:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/rubber_from_slime_ball": {
+    "criteria": {
+      "has_slime_ball": "2025-03-31 23:09:25 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_double": {
+    "criteria": {
+      "has_slime_ball": "2025-03-31 23:09:25 +0000"
     },
     "done": true
   },
@@ -9905,6 +9958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-31 23:10:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-31 20:26:40 +0000"
@@ -9995,6 +10054,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/cyan_cushion": {
+    "criteria": {
+      "has_cyan_cushion": "2025-03-31 23:10:27 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/unbreaking_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-03-31 21:57:06 +0000"
@@ -10052,6 +10117,12 @@
   "techreborn:recipes/misc/crafting_table/tool/sapphire_sword": {
     "criteria": {
       "has_sapphire_gem": "2025-03-31 20:11:23 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-03-31 23:09:12 +0000"
     },
     "done": true
   },
@@ -10445,6 +10516,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/glass_bottle_from_experience_bottle": {
+    "criteria": {
+      "has_experience_bottle": "2025-03-31 23:09:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-03-31 21:05:40 +0000"
@@ -10484,6 +10561,12 @@
   "mcda:recipes/base_armors/snow_armor_chestplate": {
     "criteria": {
       "has_iron_chestplate": "2025-03-31 21:48:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-31 23:10:27 +0000"
     },
     "done": true
   },
@@ -10697,6 +10780,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/plantball_from_grass_variants": {
+    "criteria": {
+      "has_grass_variant": "2025-03-31 23:03:13 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
     "criteria": {
       "has_the_recipe": "2025-03-31 21:14:21 +0000"
@@ -10856,6 +10945,12 @@
   "betterend:recipes/building_blocks/helix_tree_bookshelf": {
     "criteria": {
       "has_book": "2025-03-31 21:57:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-03-31 23:09:11 +0000"
     },
     "done": true
   },
@@ -11141,6 +11236,12 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-03-31 23:09:16 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/saw_small_dust_from_signs": {
     "criteria": {
       "has_tag_minecraft_signs": "2025-03-31 22:14:27 +0000"
@@ -11258,6 +11359,12 @@
   "soulsweapons:recipes/misc/glass_vial": {
     "criteria": {
       "has_item": "2025-03-31 21:41:13 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-31 23:10:27 +0000"
     },
     "done": true
   },
@@ -11384,6 +11491,12 @@
   "ae2:recipes/misc/misc/tiny_tnt": {
     "criteria": {
       "has_gunpowder": "2025-03-31 20:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-03-31 23:09:11 +0000"
     },
     "done": true
   },
@@ -11851,6 +11964,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2025-03-31 23:09:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-03-31 20:36:45 +0000"
@@ -12091,6 +12210,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-03-31 23:09:25 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/paper_from_written_book": {
     "criteria": {
       "has_written_book": "2025-03-31 21:12:06 +0000"
@@ -12157,6 +12282,12 @@
     },
     "done": true
   },
+  "comforts:hammock_cyan": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-31 23:10:27 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/sapphire_leggings": {
     "criteria": {
       "has_sapphire_gem": "2025-03-31 20:11:23 +0000"
@@ -12166,6 +12297,12 @@
   "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-03-31 20:46:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/cyan_bed_from_wool": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-31 23:10:27 +0000"
     },
     "done": true
   },
