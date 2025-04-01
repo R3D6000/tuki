@@ -2458,3 +2458,11 @@ BCLib - The End  BiomeSource (4920a8a0)
 [04:16:33] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
 [04:16:49] [Server thread/INFO]: FABERIK360 has completed the challenge [Centennial]
 [04:24:14] [Server thread/INFO]: FABERIK360 has made the advancement [Novice Spellcaster]
+[04:31:53] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[04:35:29] [Server thread/INFO]: FABERIK360 has made the advancement [Best Friends Forever]
+[04:36:44] [Server thread/INFO]: Wesnoth24 was blown up by Mutant Creeper
+[04:36:47] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Wesnoth24 accepted server config.
+[04:39:04] [Server thread/INFO]: Villager class_1646['Les'/15524, l='ServerLevel[world]', x=1138.63, y=70.00, z=13.51] died, message: 'Les hit the ground too hard'
+[04:39:04] [Server thread/INFO]: Named entity class_1646['Les'/15524, l='ServerLevel[world]', x=1138.63, y=70.00, z=13.51] died: Les fell from a high place
+[04:39:04] [Server thread/INFO]: Villager class_1646['Stacy'/15526, l='ServerLevel[world]', x=1138.59, y=70.00, z=12.64] died, message: 'Stacy hit the ground too hard'
+[04:39:04] [Server thread/INFO]: Named entity class_1646['Stacy'/15526, l='ServerLevel[world]', x=1138.59, y=70.00, z=12.64] died: Stacy fell from a high place
