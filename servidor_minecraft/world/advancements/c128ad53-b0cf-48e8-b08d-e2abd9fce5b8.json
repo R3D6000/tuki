@@ -8926,21 +8926,9 @@
     },
     "done": true
   },
-  "mcdw:recipes/axes/axe_axe": {
+  "rpg_series:classes": {
     "criteria": {
-      "has_iron_axe": "2025-04-01 03:15:25 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/iron_ingot_from_axe": {
-    "criteria": {
-      "has_iron_axe": "2025-04-01 03:15:25 +0000"
-    },
-    "done": true
-  },
-  "rpg_series:obtain_wizard_robes": {
-    "criteria": {
-      "wizard_robes": "2025-04-01 03:17:02 +0000"
+      "book": "2025-04-01 03:04:43 +0000"
     },
     "done": true
   },
@@ -9004,9 +8992,21 @@
     },
     "done": true
   },
-  "rpg_series:classes": {
+  "mcdw:recipes/axes/axe_axe": {
     "criteria": {
-      "book": "2025-04-01 03:04:43 +0000"
+      "has_iron_axe": "2025-04-01 03:15:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_axe": {
+    "criteria": {
+      "has_iron_axe": "2025-04-01 03:15:25 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:obtain_wizard_robes": {
+    "criteria": {
+      "wizard_robes": "2025-04-01 03:17:02 +0000"
     },
     "done": true
   },
