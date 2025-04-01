@@ -591,6 +591,7 @@
       "poppy_fields": "2025-04-01 05:23:30 +0000",
       "grassy_beach": "2025-03-31 02:32:57 +0000",
       "rocky_meadow": "2025-03-31 23:25:44 +0000",
+      "blackwood_taiga": "2025-04-01 05:49:58 +0000",
       "ochard": "2025-03-31 04:22:22 +0000",
       "flower_fields": "2025-04-01 04:49:43 +0000",
       "highland_fields": "2025-03-31 23:08:47 +0000",
@@ -627,6 +628,7 @@
       "poppy_fields": "2025-04-01 05:23:30 +0000",
       "grassy_beach": "2025-03-31 02:32:57 +0000",
       "rocky_meadow": "2025-03-31 23:25:44 +0000",
+      "blackwood_taiga": "2025-04-01 05:49:58 +0000",
       "ochard": "2025-03-31 04:22:22 +0000",
       "flower_fields": "2025-04-01 04:49:43 +0000",
       "highland_fields": "2025-03-31 23:08:47 +0000",
@@ -740,8 +742,10 @@
       "minecraft:sunflower_plains": "2025-03-31 04:34:58 +0000",
       "minecraft:birch_forest": "2025-04-01 05:25:35 +0000",
       "minecraft:windswept_hills": "2025-03-31 04:25:32 +0000",
+      "minecraft:bamboo_jungle": "2025-04-01 05:47:54 +0000",
       "minecraft:beach": "2025-03-31 03:56:44 +0000",
       "minecraft:dark_forest": "2025-04-01 05:11:36 +0000",
+      "minecraft:sparse_jungle": "2025-04-01 05:48:54 +0000",
       "minecraft:river": "2025-03-31 02:32:49 +0000",
       "minecraft:lukewarm_ocean": "2025-03-31 04:41:15 +0000",
       "minecraft:stony_shore": "2025-04-01 05:23:17 +0000",
@@ -13244,6 +13248,120 @@
   "techreborn:recipes/extractor/pink_dye_from_peony": {
     "criteria": {
       "has_peony": "2025-04-01 05:37:09 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/warped_shroomlamp": {
+    "criteria": {
+      "has_item": "2025-04-01 05:50:12 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-01 05:44:52 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/crimson_shroomlamp": {
+    "criteria": {
+      "has_item": "2025-04-01 05:50:12 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/walls/sky_stone_wall": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-01 05:44:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:mycologist": {
+    "criteria": {
+      "pink_bioshroom": "2025-04-01 05:50:02 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-04-01 05:50:12 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-01 05:44:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-04-01 05:50:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-04-01 05:50:12 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/chests_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-01 05:44:52 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tank_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-01 05:44:52 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-01 05:44:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pink_bioshroom_block": {
+    "criteria": {
+      "has_pink_bioshroom": "2025-04-01 05:50:02 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/stairs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-01 05:44:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-04-01 05:50:12 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/walls/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-01 05:44:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/tall_pink_bioshroom": {
+    "criteria": {
+      "has_pink_bioshroom": "2025-04-01 05:50:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/pink_dye_from_pink_bioshroom": {
+    "criteria": {
+      "has_pink_bioshroom": "2025-04-01 05:50:02 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-01 05:44:52 +0000"
     },
     "done": true
   },
