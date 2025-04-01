@@ -13269,6 +13269,18 @@
     },
     "done": true
   },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-04-01 06:08:21 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rocky_dirt": {
+    "criteria": {
+      "has_item": "2025-04-01 06:10:23 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/block_cutter/walls/sky_stone_wall": {
     "criteria": {
       "has_sky_stone_block": "2025-04-01 05:44:52 +0000"
@@ -13290,6 +13302,12 @@
   "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
     "criteria": {
       "has_sky_stone_block": "2025-04-01 05:44:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-01 06:08:21 +0000"
     },
     "done": true
   },
@@ -13320,6 +13338,18 @@
   "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
     "criteria": {
       "has_sky_stone_block": "2025-04-01 05:44:52 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_from_pebble": {
+    "criteria": {
+      "has_item": "2025-04-01 06:10:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-04-01 06:08:21 +0000"
     },
     "done": true
   },
