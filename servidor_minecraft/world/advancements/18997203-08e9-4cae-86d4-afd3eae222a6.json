@@ -595,9 +595,11 @@
       "maple_forest": "2025-03-31 03:54:52 +0000",
       "magnolia_highlands": "2025-03-31 23:25:46 +0000",
       "mountains": "2025-04-01 04:46:19 +0000",
+      "sparse_redwoods": "2025-04-01 05:10:30 +0000",
       "deciduous_forest": "2025-03-31 04:45:55 +0000",
       "boreal_forest": "2025-03-31 02:33:01 +0000",
       "towering_cliffs": "2025-03-31 04:22:57 +0000",
+      "bamboo_forest": "2025-04-01 05:09:48 +0000",
       "temperate_grove": "2025-03-31 23:06:23 +0000",
       "cold_river": "2025-03-31 04:13:03 +0000",
       "pumpkin_fields": "2025-03-31 04:01:15 +0000",
@@ -605,6 +607,7 @@
       "grassland": "2025-03-31 04:41:58 +0000",
       "prairie": "2025-03-31 04:42:19 +0000",
       "gravel_beach": "2025-03-31 03:54:43 +0000",
+      "redwoods": "2025-04-01 05:10:05 +0000",
       "lupine_plains": "2025-03-31 02:26:16 +0000"
     },
     "done": false
@@ -626,9 +629,11 @@
       "maple_forest": "2025-03-31 03:54:52 +0000",
       "magnolia_highlands": "2025-03-31 23:25:46 +0000",
       "mountains": "2025-04-01 04:46:19 +0000",
+      "sparse_redwoods": "2025-04-01 05:10:30 +0000",
       "deciduous_forest": "2025-03-31 04:45:55 +0000",
       "boreal_forest": "2025-03-31 02:33:01 +0000",
       "towering_cliffs": "2025-03-31 04:22:57 +0000",
+      "bamboo_forest": "2025-04-01 05:09:48 +0000",
       "temperate_grove": "2025-03-31 23:06:23 +0000",
       "cold_river": "2025-03-31 04:13:03 +0000",
       "pumpkin_fields": "2025-03-31 04:01:15 +0000",
@@ -636,6 +641,7 @@
       "grassland": "2025-03-31 04:41:58 +0000",
       "prairie": "2025-03-31 04:42:19 +0000",
       "gravel_beach": "2025-03-31 03:54:43 +0000",
+      "redwoods": "2025-04-01 05:10:05 +0000",
       "lupine_plains": "2025-03-31 02:26:16 +0000"
     },
     "done": false
@@ -12621,6 +12627,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_moss": {
+    "criteria": {
+      "has_item": "2025-04-01 05:01:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-04-01 04:29:39 +0000"
@@ -12681,6 +12693,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-01 05:08:13 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/explorer_pottery_sherd": {
     "criteria": {
       "has_map": "2025-04-01 04:32:53 +0000"
@@ -12702,6 +12720,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-04-01 04:29:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-01 05:01:46 +0000"
     },
     "done": true
   },
@@ -12801,6 +12825,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-01 05:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-04-01 05:01:46 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/rope": {
     "criteria": {
       "has_wheat": "2025-04-01 04:19:00 +0000"
@@ -12843,6 +12879,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/end_stone_brick_weathered_from_moss": {
+    "criteria": {
+      "has_moss_block": "2025-04-01 05:01:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2025-04-01 04:20:25 +0000"
@@ -12870,6 +12912,12 @@
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-04-01 04:19:00 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/mossy_bricks_from_moss_block": {
+    "criteria": {
+      "has_item": "2025-04-01 05:01:46 +0000"
     },
     "done": true
   },
@@ -12921,6 +12969,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-01 05:08:13 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_sinister": {
     "criteria": {
       "has_obsidian": "2025-04-01 04:46:53 +0000"
@@ -12936,6 +12990,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-04-01 04:29:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-04-01 05:07:06 +0000"
     },
     "done": true
   },
@@ -13038,6 +13098,12 @@
   "beachparty:beach_hat": {
     "criteria": {
       "has_wheat": "2025-04-01 04:19:00 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_spider": {
+    "criteria": {
+      "has_core_specification_item": "2025-04-01 05:08:13 +0000"
     },
     "done": true
   },
