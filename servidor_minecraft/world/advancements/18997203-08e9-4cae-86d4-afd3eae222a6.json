@@ -13824,6 +13824,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
+    "criteria": {
+      "press": "2025-04-02 02:20:23 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-02 01:44:39 +0000"
@@ -13839,6 +13845,12 @@
   "croptopia:recipes/food/cooked_calamari_from_glowing_calamari": {
     "criteria": {
       "has_glowing_calamari": "2025-04-02 01:41:56 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/blasting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-04-02 02:19:48 +0000"
     },
     "done": true
   },
@@ -13877,6 +13889,14 @@
       "has_anvil": "2025-04-02 01:55:25 +0000"
     },
     "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2025-04-02 02:20:23 +0000",
+      "silicon": "2025-04-02 02:20:36 +0000",
+      "engineering": "2025-04-02 02:20:35 +0000"
+    },
+    "done": false
   },
   "croptopia:gather_food": {
     "criteria": {
@@ -14064,6 +14084,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/parts/quartz_fiber_part": {
+    "criteria": {
+      "has_dusts/quartz": "2025-04-02 02:19:48 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2025-04-02 01:36:07 +0000"
@@ -14193,6 +14219,12 @@
   "stoneworks:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-02 01:44:39 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_glass": {
+    "criteria": {
+      "has_quartz_dust": "2025-04-02 02:19:48 +0000"
     },
     "done": true
   },
@@ -14338,6 +14370,12 @@
   "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-04-02 01:44:39 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-04-02 02:19:48 +0000"
     },
     "done": true
   },
