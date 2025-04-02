@@ -3124,6 +3124,7 @@
       "minecraft:witch": "2025-04-01 04:50:51 +0000",
       "minecraft:cave_spider": "2025-03-31 03:47:01 +0000",
       "minecraft:enderman": "2025-04-02 04:51:27 +0000",
+      "minecraft:stray": "2025-04-02 05:51:43 +0000",
       "minecraft:zombie": "2025-03-31 02:39:49 +0000",
       "minecraft:drowned": "2025-03-31 02:51:37 +0000"
     },
@@ -14656,6 +14657,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_white": {
+    "criteria": {
+      "has_dyes/black": "2025-04-02 06:01:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/invar_dust": {
     "criteria": {
       "has_tag_c_invar_ingots": "2025-04-02 04:30:31 +0000"
@@ -14722,6 +14729,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/angler_pottery_sherd": {
+    "criteria": {
+      "has_fishing_rod": "2025-04-02 05:55:33 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/lodestone": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-04-02 05:54:40 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/wine_bottle": {
     "criteria": {
       "has_glass_bottle": "2025-04-02 05:24:21 +0000"
@@ -14731,6 +14750,12 @@
   "minecraft:recipes/building_blocks/oxidized_cut_copper": {
     "criteria": {
       "has_oxidized_copper": "2025-04-02 04:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-04-02 05:58:54 +0000"
     },
     "done": true
   },
@@ -14749,6 +14774,12 @@
   "botania:recipes/decorations/prism": {
     "criteria": {
       "has_item": "2025-04-02 05:43:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "supplementaries:blackboard_white": "2025-04-02 06:01:12 +0000"
     },
     "done": true
   },
@@ -14812,6 +14843,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-02 05:50:32 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_water": {
     "criteria": {
       "has_tag_minecraft_trim_templates": "2025-04-02 04:29:07 +0000"
@@ -14821,6 +14858,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_prismarine_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-04-02 04:38:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-02 06:01:12 +0000"
     },
     "done": true
   },
@@ -14848,9 +14891,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/white_dye_from_bone_meal": {
+    "criteria": {
+      "has_bone_meal": "2025-04-02 06:01:12 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:effects/brew_glistering_honey_crystal_block": {
     "criteria": {
       "brew_glistering_honey_crystal_block": "2025-04-02 04:35:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2025-04-02 06:01:12 +0000"
     },
     "done": true
   },
@@ -14923,6 +14978,12 @@
   "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-04-02 04:38:18 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_elder_chest": {
+    "criteria": {
+      "has_item": "2025-04-02 05:58:54 +0000"
     },
     "done": true
   },
@@ -15082,6 +15143,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-04-02 06:01:12 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_prismarine_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-04-02 04:38:18 +0000"
@@ -15160,6 +15227,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/redstone/trapped_juniper_chest": {
+    "criteria": {
+      "has_item": "2025-04-02 05:58:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_cut_copper": "2025-04-02 04:38:30 +0000"
@@ -15193,6 +15266,12 @@
   "stoneworks:recipes/building_blocks/cobbled_prismarine_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-04-02 04:38:18 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_white": {
+    "criteria": {
+      "has_dyes/black": "2025-04-02 06:01:12 +0000"
     },
     "done": true
   },
@@ -15268,6 +15347,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sulphur_gunpowder": {
+    "criteria": {
+      "has_bone_meal": "2025-04-02 06:01:12 +0000"
+    },
+    "done": true
+  },
   "oxidized:recipes/vertical_oxidized_cut_copper": {
     "criteria": {
       "has_copper_block": "2025-04-02 04:36:25 +0000"
@@ -15277,6 +15362,12 @@
   "mcda:recipes/base_armors/climbing_gear_helmet": {
     "criteria": {
       "has_leather_helmet": "2025-04-02 05:14:10 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_cypress_chest": {
+    "criteria": {
+      "has_item": "2025-04-02 05:58:54 +0000"
     },
     "done": true
   },
@@ -15358,6 +15449,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-04-02 06:01:12 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_white": {
+    "criteria": {
+      "has_dyes/black": "2025-04-02 06:01:12 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/prismarine_brick_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-04-02 04:38:18 +0000"
@@ -15367,6 +15470,12 @@
   "stoneworks:recipes/building_blocks/mossy_prismarine_brick_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-04-02 04:38:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/bone_meal": {
+    "criteria": {
+      "has_bone_meal": "2025-04-02 06:01:12 +0000"
     },
     "done": true
   },
@@ -15400,6 +15509,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_covered_white": {
+    "criteria": {
+      "has_dyes/black": "2025-04-02 06:01:12 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_dragons_blood_chest": {
+    "criteria": {
+      "has_item": "2025-04-02 05:58:54 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/enderman": {
     "criteria": {
       "has_ender_pearl": "2025-04-02 04:51:56 +0000"
@@ -15409,6 +15530,12 @@
   "mcda:recipes/base_armors/climbing_gear_leggings": {
     "criteria": {
       "has_leather_leggings": "2025-04-02 05:18:00 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-02 05:50:32 +0000"
     },
     "done": true
   },
