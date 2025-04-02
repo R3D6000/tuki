@@ -752,6 +752,7 @@
       "minecraft:cold_ocean": "2025-03-31 03:57:12 +0000",
       "minecraft:forest": "2025-03-31 03:55:30 +0000",
       "minecraft:lush_caves": "2025-03-31 20:19:52 +0000",
+      "minecraft:deep_cold_ocean": "2025-04-02 04:27:40 +0000",
       "minecraft:ocean": "2025-03-31 04:40:32 +0000",
       "minecraft:jungle": "2025-04-01 05:10:54 +0000",
       "minecraft:windswept_savanna": "2025-03-31 04:32:41 +0000",
@@ -3101,6 +3102,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-02 04:28:18 +0000",
       "minecraft:skeleton": "2025-03-31 05:04:10 +0000",
       "minecraft:spider": "2025-03-31 05:05:02 +0000",
       "minecraft:creeper": "2025-03-31 20:59:20 +0000",
@@ -14592,6 +14594,102 @@
   "betternether:recipes/decorations/mushroom_fir_hanging_sign": {
     "criteria": {
       "has_chain": "2025-04-02 03:00:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-04-02 04:22:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/steel_dust": {
+    "criteria": {
+      "has_tag_c_steel_ingots": "2025-04-02 04:28:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/electrum_nugget": {
+    "criteria": {
+      "has_electrum_ingot": "2025-04-02 04:28:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/steel_plate": {
+    "criteria": {
+      "has_tag_c_steel_ingots": "2025-04-02 04:28:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/diamond_grinding_head": {
+    "criteria": {
+      "has_steel_ingot": "2025-04-02 04:28:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_storage_block": {
+    "criteria": {
+      "has_steel_ingot": "2025-04-02 04:28:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/electrum_plate": {
+    "criteria": {
+      "has_tag_c_electrum_ingots": "2025-04-02 04:28:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/electrum_storage_block": {
+    "criteria": {
+      "has_electrum_ingot": "2025-04-02 04:28:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/electrum_dust": {
+    "criteria": {
+      "has_tag_c_electrum_ingots": "2025-04-02 04:28:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_boots": {
+    "criteria": {
+      "has_steel_ingot": "2025-04-02 04:28:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_helmet": {
+    "criteria": {
+      "has_steel_ingot": "2025-04-02 04:28:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/steel_nugget": {
+    "criteria": {
+      "has_steel_ingot": "2025-04-02 04:28:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_leggings": {
+    "criteria": {
+      "has_steel_ingot": "2025-04-02 04:28:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/diamond_saw_blade": {
+    "criteria": {
+      "has_steel_ingot": "2025-04-02 04:28:52 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_black_double": {
+    "criteria": {
+      "has_item": "2025-04-02 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_chestplate": {
+    "criteria": {
+      "has_steel_ingot": "2025-04-02 04:28:52 +0000"
     },
     "done": true
   },
