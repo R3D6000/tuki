@@ -2440,3 +2440,12 @@ BCLib - Nether BiomeSource (551b85d)
 [03:36:13] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
 [03:36:13] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
 [03:42:56] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Wesnoth24 accepted server config.
+[03:43:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[03:51:38] [Server thread/INFO]: Villager class_1646['Kenny'/298, l='ServerLevel[world]', x=1002.51, y=66.00, z=198.15] died, message: 'Kenny was slain by Ghoul'
+[03:51:38] [Server thread/INFO]: Named entity class_1646['Kenny'/298, l='ServerLevel[world]', x=1002.51, y=66.00, z=198.15] died: Kenny was slain by Ghoul
+[03:51:43] [Server thread/INFO]: Villager class_1646['Michele'/295, l='ServerLevel[world]', x=1002.89, y=66.00, z=195.73] died, message: 'Michele was slain by Ghoul'
+[03:51:43] [Server thread/INFO]: Named entity class_1646['Michele'/295, l='ServerLevel[world]', x=1002.89, y=66.00, z=195.73] died: Michele was slain by Ghoul
+[03:51:55] [Server thread/INFO]: Villager class_1646['Brice'/296, l='ServerLevel[world]', x=1007.49, y=66.00, z=197.12] died, message: 'Brice was slain by Ghoul'
+[03:51:55] [Server thread/INFO]: Named entity class_1646['Brice'/296, l='ServerLevel[world]', x=1007.49, y=66.00, z=197.12] died: Brice was slain by Ghoul
+[03:52:03] [Server thread/INFO]: Villager class_1646['Arnold'/297, l='ServerLevel[world]', x=1006.38, y=66.00, z=195.30] died, message: 'Arnold was slain by Ghoul'
+[03:52:03] [Server thread/INFO]: Named entity class_1646['Arnold'/297, l='ServerLevel[world]', x=1006.38, y=66.00, z=195.30] died: Arnold was slain by Ghoul
