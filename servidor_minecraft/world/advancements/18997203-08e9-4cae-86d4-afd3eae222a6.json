@@ -614,6 +614,7 @@
       "prairie": "2025-03-31 04:42:19 +0000",
       "gravel_beach": "2025-03-31 03:54:43 +0000",
       "redwoods": "2025-04-01 05:10:05 +0000",
+      "hyacinth_deeps": "2025-04-02 05:23:16 +0000",
       "lupine_plains": "2025-03-31 02:26:16 +0000"
     },
     "done": false
@@ -654,6 +655,7 @@
       "prairie": "2025-03-31 04:42:19 +0000",
       "gravel_beach": "2025-03-31 03:54:43 +0000",
       "redwoods": "2025-04-01 05:10:05 +0000",
+      "hyacinth_deeps": "2025-04-02 05:23:16 +0000",
       "lupine_plains": "2025-03-31 02:26:16 +0000"
     },
     "done": false
@@ -3661,6 +3663,7 @@
       "cooked_beef": "2025-03-31 04:15:57 +0000",
       "baked_potato": "2025-03-31 04:23:33 +0000",
       "apple": "2025-03-31 04:16:02 +0000",
+      "pumpkin_pie": "2025-04-02 05:16:47 +0000",
       "bread": "2025-03-31 04:01:50 +0000",
       "golden_apple": "2025-04-02 01:56:28 +0000",
       "cookie": "2025-03-31 21:38:42 +0000",
@@ -14683,6 +14686,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/goat_gear_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-04-02 05:18:00 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/ender_eye_amber": {
     "criteria": {
       "has_ender_pearl": "2025-04-02 04:51:56 +0000"
@@ -14947,6 +14956,12 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/archers_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-04-02 05:18:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_stairs": {
     "criteria": {
       "has_prismarine": "2025-04-02 04:38:18 +0000"
@@ -15109,6 +15124,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/scale_mail_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-04-02 05:18:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-04-02 04:29:07 +0000"
@@ -15241,6 +15262,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/squid_armor_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-04-02 05:18:00 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-04-02 04:38:18 +0000"
@@ -15304,6 +15331,12 @@
   "travelersbackpack:recipes/misc/enderman": {
     "criteria": {
       "has_ender_pearl": "2025-04-02 04:51:56 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-04-02 05:18:00 +0000"
     },
     "done": true
   },
