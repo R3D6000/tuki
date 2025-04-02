@@ -763,6 +763,7 @@
       "minecraft:lush_caves": "2025-03-31 20:19:52 +0000",
       "minecraft:deep_cold_ocean": "2025-04-02 04:27:40 +0000",
       "minecraft:frozen_ocean": "2025-04-02 04:50:00 +0000",
+      "minecraft:deep_frozen_ocean": "2025-04-02 05:07:22 +0000",
       "minecraft:ocean": "2025-03-31 04:40:32 +0000",
       "minecraft:jungle": "2025-04-01 05:10:54 +0000",
       "minecraft:snowy_beach": "2025-04-02 04:49:33 +0000",
@@ -3115,6 +3116,7 @@
     "criteria": {
       "minecraft:pillager": "2025-04-02 04:28:18 +0000",
       "minecraft:skeleton": "2025-03-31 05:04:10 +0000",
+      "minecraft:vindicator": "2025-04-02 05:11:49 +0000",
       "minecraft:spider": "2025-03-31 05:05:02 +0000",
       "minecraft:creeper": "2025-03-31 20:59:20 +0000",
       "minecraft:witch": "2025-04-01 04:50:51 +0000",
@@ -14657,6 +14659,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2025-04-02 05:09:16 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/ender_perl_to_block": {
     "criteria": {
       "has_ender_pearl": "2025-04-02 04:51:56 +0000"
@@ -14699,9 +14707,21 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/archers_helmet": {
+    "criteria": {
+      "has_leather_helmet": "2025-04-02 05:14:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper": {
     "criteria": {
       "has_oxidized_copper": "2025-04-02 04:36:25 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/anglers_fang": {
+    "criteria": {
+      "has_item": "2025-04-02 05:10:09 +0000"
     },
     "done": true
   },
@@ -14726,6 +14746,12 @@
   "techreborn:recipes/misc/crafting_table/nugget/electrum_nugget": {
     "criteria": {
       "has_electrum_ingot": "2025-04-02 04:28:50 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_helmet": {
+    "criteria": {
+      "has_leather_helmet": "2025-04-02 05:14:10 +0000"
     },
     "done": true
   },
@@ -14801,9 +14827,21 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_palisade": {
+    "criteria": {
+      "has_log": "2025-04-02 05:11:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_slab": {
     "criteria": {
       "has_waxed_cut_copper": "2025-04-02 04:38:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
+    "criteria": {
+      "has_log": "2025-04-02 05:11:36 +0000"
     },
     "done": true
   },
@@ -14885,6 +14923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-04-02 05:11:36 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/prismarine_plate_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-04-02 04:38:18 +0000"
@@ -14957,6 +15001,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/spinefish": {
+    "criteria": {
+      "has_item": "2025-04-02 05:12:16 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/steel_boots": {
     "criteria": {
       "has_steel_ingot": "2025-04-02 04:28:52 +0000"
@@ -15023,6 +15073,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-04-02 05:07:22 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/prismarine_pillar_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-04-02 04:38:18 +0000"
@@ -15035,9 +15091,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-02 05:11:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_cut_copper": "2025-04-02 04:38:30 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2025-04-02 05:09:16 +0000"
     },
     "done": true
   },
@@ -15113,6 +15181,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/climbing_gear_helmet": {
+    "criteria": {
+      "has_leather_helmet": "2025-04-02 05:14:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-04-02 04:38:18 +0000"
@@ -15122,6 +15196,12 @@
   "mythicmounts:summoning_staff": {
     "criteria": {
       "has_pearl": "2025-04-02 04:51:56 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/esca": {
+    "criteria": {
+      "has_item": "2025-04-02 05:09:29 +0000"
     },
     "done": true
   },
@@ -15140,6 +15220,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_prismarine_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-04-02 04:38:18 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_esca": {
+    "criteria": {
+      "esca": "2025-04-02 05:09:29 +0000"
     },
     "done": true
   },
@@ -15185,6 +15271,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/obtain_anglers_fang": {
+    "criteria": {
+      "anglers_fang": "2025-04-02 05:10:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/prismarine_wall": {
     "criteria": {
       "has_prismarine": "2025-04-02 04:38:18 +0000"
@@ -15200,6 +15292,12 @@
   "stoneworks:recipes/building_blocks/chiseled_prismarine_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-04-02 04:38:18 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2025-04-02 05:11:29 +0000"
     },
     "done": true
   },

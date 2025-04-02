@@ -3121,3 +3121,9 @@ java.util.ConcurrentModificationException: ThreadLocalRandom accessed from a dif
 [05:04:35] [Worker-Main-70/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
 [05:04:35] [Worker-Main-70/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
 [05:04:35] [Worker-Main-70/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[05:07:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2276ms or 45 ticks behind
+[05:07:22] [Server thread/INFO]: Wesnoth24 has made the advancement [Ice Maze]
+[05:09:16] [Server thread/INFO]: Wesnoth24 has made the advancement [Almost Like a Fan]
+[05:09:29] [Server thread/INFO]: Wesnoth24 has made the advancement [The Light In The Darkness]
+[05:10:09] [Server thread/INFO]: Wesnoth24 has made the advancement [Perfect Instance]
+[05:10:30] [Server thread/WARN]: Tried to add entity aquamirae:pillagers_patrol but it was marked as removed already
