@@ -3058,3 +3058,6 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [04:26:08] [Worker-Main-66/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;176865803,-972338229,-2060744252,-623071664],type:"minecraft:entity",y_offset:0.36f}}]
 [04:26:51] [Worker-Main-58/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;672061792,-366263352,-1752079043,-405291646],type:"minecraft:entity",y_offset:0.36f}}]
 [04:30:26] [Server thread/INFO]: Wesnoth24 has made the advancement [Arcane Empowerment]
+[04:35:30] [Server thread/INFO]: Wesnoth24 has made the advancement [Cheating Chances!]
+[04:39:27] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
