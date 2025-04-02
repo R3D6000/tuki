@@ -756,6 +756,7 @@
       "minecraft:jungle": "2025-04-01 05:10:54 +0000",
       "minecraft:windswept_savanna": "2025-03-31 04:32:41 +0000",
       "minecraft:flower_forest": "2025-03-31 05:02:45 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-02 02:08:42 +0000",
       "minecraft:meadow": "2025-03-31 23:09:50 +0000",
       "minecraft:savanna": "2025-03-31 04:54:55 +0000",
       "minecraft:plains": "2025-03-31 03:56:39 +0000"
@@ -13661,6 +13662,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-02 02:08:56 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/tools/moonstone_axe_right": {
     "criteria": {
       "has_item": "2025-04-02 01:46:09 +0000"
@@ -13712,6 +13719,12 @@
   "stoneworks:recipes/building_blocks/tuff_tile_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-02 01:44:39 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:emberblade": {
+    "criteria": {
+      "requirement": "2025-04-02 02:03:17 +0000"
     },
     "done": true
   },
@@ -13781,9 +13794,21 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/rhyolite_slab": {
+    "criteria": {
+      "has_item": "2025-04-02 02:08:56 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/tuff_stairs": {
     "criteria": {
       "has_item": "2025-04-02 01:44:39 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite_bricks_from_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-02 02:08:56 +0000"
     },
     "done": true
   },
@@ -13853,6 +13878,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/polished_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-02 02:08:56 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_plate_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-02 01:44:39 +0000"
@@ -13862,6 +13893,12 @@
   "stoneworks:recipes/building_blocks/tuff_shingle_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-02 01:44:39 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_wall": {
+    "criteria": {
+      "has_item": "2025-04-02 02:08:56 +0000"
     },
     "done": true
   },
@@ -13931,6 +13968,18 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/polished_rhyolite": {
+    "criteria": {
+      "has_item": "2025-04-02 02:08:56 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_stairs": {
+    "criteria": {
+      "has_item": "2025-04-02 02:08:56 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-02 01:44:39 +0000"
@@ -13940,6 +13989,12 @@
   "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-04-02 01:44:39 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-02 02:08:56 +0000"
     },
     "done": true
   },
@@ -14100,6 +14155,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/gunpowder_from_tnt": {
+    "criteria": {
+      "has_tnt": "2025-04-02 02:06:31 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_electrolyzer/sugar": {
     "criteria": {
       "has_sugar": "2025-04-02 01:50:04 +0000"
@@ -14109,6 +14170,12 @@
   "stoneworks:recipes/building_blocks/tuff_plate_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-02 01:44:39 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-02 02:08:56 +0000"
     },
     "done": true
   },
@@ -14241,6 +14308,12 @@
   "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-04-02 01:44:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/soul_soil": {
+    "criteria": {
+      "has_soul_soil": "2025-04-02 02:02:37 +0000"
     },
     "done": true
   },
