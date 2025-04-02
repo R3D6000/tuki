@@ -2449,3 +2449,29 @@ BCLib - Nether BiomeSource (551b85d)
 [03:51:55] [Server thread/INFO]: Named entity class_1646['Brice'/296, l='ServerLevel[world]', x=1007.49, y=66.00, z=197.12] died: Brice was slain by Ghoul
 [03:52:03] [Server thread/INFO]: Villager class_1646['Arnold'/297, l='ServerLevel[world]', x=1006.38, y=66.00, z=195.30] died, message: 'Arnold was slain by Ghoul'
 [03:52:03] [Server thread/INFO]: Named entity class_1646['Arnold'/297, l='ServerLevel[world]', x=1006.38, y=66.00, z=195.30] died: Arnold was slain by Ghoul
+[03:56:22] [Server thread/INFO]: Villager class_1646['Elias'/285, l='ServerLevel[world]', x=1003.60, y=66.00, z=199.64] died, message: 'Elias was slain by Zombie'
+[03:56:22] [Server thread/INFO]: Named entity class_1646['Elias'/285, l='ServerLevel[world]', x=1003.60, y=66.00, z=199.64] died: Elias was slain by Zombie
+[03:59:59] [Server thread/INFO]: Wesnoth24 lost connection: Disconnected
+[03:59:59] [Server thread/INFO]: Wesnoth24 left the game
+[03:59:59] [Server thread/INFO]: remove player wand
+[03:59:59] [Server thread/INFO]: Updating all forceload tickets for 18997203-08e9-4cae-86d4-afd3eae222a6
+[04:00:05] [User Authenticator #2/INFO]: UUID of player Wesnoth24 is 18997203-08e9-4cae-86d4-afd3eae222a6
+[04:00:05] [Server thread/INFO]: [Handshake] Sending channel query
+[04:00:06] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[04:00:06] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[04:00:06] [Server thread/INFO]: Wesnoth24[/127.210.179.164:45781] logged in with entity id 2711 at (976.808142860255, 76.0, 165.4529793040753)
+[04:00:06] [Server thread/INFO]: Sending server config values to client
+[04:00:06] [Server thread/INFO]: Syncing config to Wesnoth24 (18997203-08e9-4cae-86d4-afd3eae222a6)
+[04:00:06] [Server thread/INFO]: Loading config from file...
+[04:00:06] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[04:00:06] [Server thread/INFO]: Wesnoth24 joined the game
+[04:00:06] [Server thread/INFO]: Loading Configs for Sortilege
+[04:00:06] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[04:00:06] [Server thread/INFO]: Updating all forceload tickets for 18997203-08e9-4cae-86d4-afd3eae222a6
+[04:00:06] [Server thread/INFO]: PLAYER_JOIN
+[04:00:06] [Server thread/INFO]: add_player wand
+[04:00:06] [Server thread/INFO]: config sent
+[04:00:08] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[04:00:08] [Netty Epoll Server IO #5/INFO]: [Ping-Wheel] Channel update: Wesnoth24 -> Global
+[04:00:08] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player Wesnoth24. Claiming: GRAVE / Robbing: INVENTORY
+[04:00:13] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Wesnoth24 accepted server config.
