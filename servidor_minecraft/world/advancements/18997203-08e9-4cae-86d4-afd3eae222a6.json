@@ -587,6 +587,7 @@
       "muddy_river": "2025-03-31 02:33:02 +0000",
       "autumnal_maple_forest": "2025-03-31 04:09:13 +0000",
       "willow_forest": "2025-04-01 04:44:26 +0000",
+      "frozen_tundra": "2025-04-02 04:48:14 +0000",
       "barley_fields": "2025-03-31 04:43:58 +0000",
       "poppy_fields": "2025-04-01 05:23:30 +0000",
       "grassy_beach": "2025-03-31 02:32:57 +0000",
@@ -596,6 +597,7 @@
       "flower_fields": "2025-04-01 04:49:43 +0000",
       "highland_fields": "2025-03-31 23:08:47 +0000",
       "maple_forest": "2025-03-31 03:54:52 +0000",
+      "frozen_pine_taiga": "2025-04-02 04:49:40 +0000",
       "magnolia_highlands": "2025-03-31 23:25:46 +0000",
       "mountains": "2025-04-01 04:46:19 +0000",
       "sparse_redwoods": "2025-04-01 05:10:30 +0000",
@@ -624,6 +626,7 @@
       "muddy_river": "2025-03-31 02:33:02 +0000",
       "autumnal_maple_forest": "2025-03-31 04:09:13 +0000",
       "willow_forest": "2025-04-01 04:44:26 +0000",
+      "frozen_tundra": "2025-04-02 04:48:14 +0000",
       "barley_fields": "2025-03-31 04:43:58 +0000",
       "poppy_fields": "2025-04-01 05:23:30 +0000",
       "grassy_beach": "2025-03-31 02:32:57 +0000",
@@ -633,6 +636,7 @@
       "flower_fields": "2025-04-01 04:49:43 +0000",
       "highland_fields": "2025-03-31 23:08:47 +0000",
       "maple_forest": "2025-03-31 03:54:52 +0000",
+      "frozen_pine_taiga": "2025-04-02 04:49:40 +0000",
       "magnolia_highlands": "2025-03-31 23:25:46 +0000",
       "mountains": "2025-04-01 04:46:19 +0000",
       "sparse_redwoods": "2025-04-01 05:10:30 +0000",
@@ -739,6 +743,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-04-01 03:05:18 +0000",
+      "minecraft:frozen_river": "2025-04-02 04:49:36 +0000",
       "minecraft:sunflower_plains": "2025-03-31 04:34:58 +0000",
       "minecraft:birch_forest": "2025-04-01 05:25:35 +0000",
       "minecraft:windswept_hills": "2025-03-31 04:25:32 +0000",
@@ -749,12 +754,16 @@
       "minecraft:river": "2025-03-31 02:32:49 +0000",
       "minecraft:lukewarm_ocean": "2025-03-31 04:41:15 +0000",
       "minecraft:stony_shore": "2025-04-01 05:23:17 +0000",
+      "minecraft:snowy_plains": "2025-04-02 04:50:24 +0000",
+      "minecraft:snowy_taiga": "2025-04-02 04:50:18 +0000",
       "minecraft:cold_ocean": "2025-03-31 03:57:12 +0000",
       "minecraft:forest": "2025-03-31 03:55:30 +0000",
       "minecraft:lush_caves": "2025-03-31 20:19:52 +0000",
       "minecraft:deep_cold_ocean": "2025-04-02 04:27:40 +0000",
+      "minecraft:frozen_ocean": "2025-04-02 04:50:00 +0000",
       "minecraft:ocean": "2025-03-31 04:40:32 +0000",
       "minecraft:jungle": "2025-04-01 05:10:54 +0000",
+      "minecraft:snowy_beach": "2025-04-02 04:49:33 +0000",
       "minecraft:windswept_savanna": "2025-03-31 04:32:41 +0000",
       "minecraft:flower_forest": "2025-03-31 05:02:45 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-02 02:08:42 +0000",
@@ -3108,6 +3117,7 @@
       "minecraft:creeper": "2025-03-31 20:59:20 +0000",
       "minecraft:witch": "2025-04-01 04:50:51 +0000",
       "minecraft:cave_spider": "2025-03-31 03:47:01 +0000",
+      "minecraft:enderman": "2025-04-02 04:51:27 +0000",
       "minecraft:zombie": "2025-03-31 02:39:49 +0000",
       "minecraft:drowned": "2025-03-31 02:51:37 +0000"
     },
@@ -14633,6 +14643,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-02 04:51:56 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_water": {
     "criteria": {
       "has_tag_minecraft_trim_templates": "2025-04-02 04:29:07 +0000"
@@ -14642,6 +14658,12 @@
   "stoneworks:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-04-02 04:38:18 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-02 04:51:56 +0000"
     },
     "done": true
   },
@@ -14771,6 +14793,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2025-04-02 04:51:56 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/diamond_grinding_head": {
     "criteria": {
       "has_steel_ingot": "2025-04-02 04:28:52 +0000"
@@ -14822,6 +14850,12 @@
   "stoneworks:recipes/building_blocks/prismarine_tile_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-04-02 04:38:18 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/abyss_watcher": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-02 04:51:56 +0000"
     },
     "done": true
   },
@@ -14897,6 +14931,12 @@
     },
     "done": true
   },
+  "transmog:recipes/misc/void_fragment": {
+    "criteria": {
+      "has_item": "2025-04-02 04:51:56 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/steel_boots": {
     "criteria": {
       "has_steel_ingot": "2025-04-02 04:28:52 +0000"
@@ -14936,6 +14976,12 @@
   "stoneworks:recipes/building_blocks/cobbled_prismarine_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-04-02 04:38:18 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/ender_flute_recipe": {
+    "criteria": {
+      "got_the_ender_pearl": "2025-04-02 04:51:56 +0000"
     },
     "done": true
   },
@@ -14993,6 +15039,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/tools/waystone": {
+    "criteria": {
+      "has_item": "2025-04-02 04:51:56 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/diamond_saw_blade": {
     "criteria": {
       "has_steel_ingot": "2025-04-02 04:28:52 +0000"
@@ -15041,9 +15093,21 @@
     },
     "done": true
   },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2025-04-02 04:51:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
     "criteria": {
       "has_oxidized_copper": "2025-04-02 04:36:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/ender_eye": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-02 04:51:56 +0000"
     },
     "done": true
   },
@@ -15113,6 +15177,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-02 04:51:56 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_prismarine_bricks_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-04-02 04:38:18 +0000"
@@ -15122,6 +15192,12 @@
   "minecraft:recipes/misc/raw_copper": {
     "criteria": {
       "has_raw_copper_block": "2025-04-02 04:41:58 +0000"
+    },
+    "done": true
+  },
+  "transmog:recipes/misc/transmogrification_table": {
+    "criteria": {
+      "has_item": "2025-04-02 04:51:56 +0000"
     },
     "done": true
   },
