@@ -15359,6 +15359,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/sharp_bones": {
+    "criteria": {
+      "has_item": "2025-04-02 06:12:51 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/climbing_gear_helmet": {
     "criteria": {
       "has_leather_helmet": "2025-04-02 05:14:10 +0000"
@@ -15512,6 +15518,18 @@
   "ae2:recipes/misc/network/cables/dense_covered_white": {
     "criteria": {
       "has_dyes/black": "2025-04-02 06:01:12 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/oxygelium": {
+    "criteria": {
+      "has_item": "2025-04-02 06:05:11 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/wisteria_niveis": {
+    "criteria": {
+      "has_item": "2025-04-02 06:05:49 +0000"
     },
     "done": true
   },
