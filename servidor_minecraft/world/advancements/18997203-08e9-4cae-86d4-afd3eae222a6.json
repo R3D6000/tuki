@@ -605,6 +605,7 @@
       "boreal_forest": "2025-03-31 02:33:01 +0000",
       "towering_cliffs": "2025-03-31 04:22:57 +0000",
       "bamboo_forest": "2025-04-01 05:09:48 +0000",
+      "cold_boreal_taiga": "2025-04-02 05:03:47 +0000",
       "temperate_grove": "2025-03-31 23:06:23 +0000",
       "cold_river": "2025-03-31 04:13:03 +0000",
       "pumpkin_fields": "2025-03-31 04:01:15 +0000",
@@ -644,6 +645,7 @@
       "boreal_forest": "2025-03-31 02:33:01 +0000",
       "towering_cliffs": "2025-03-31 04:22:57 +0000",
       "bamboo_forest": "2025-04-01 05:09:48 +0000",
+      "cold_boreal_taiga": "2025-04-02 05:03:47 +0000",
       "temperate_grove": "2025-03-31 23:06:23 +0000",
       "cold_river": "2025-03-31 04:13:03 +0000",
       "pumpkin_fields": "2025-03-31 04:01:15 +0000",
@@ -14607,6 +14609,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/axes/axe_axe": {
+    "criteria": {
+      "has_iron_axe": "2025-04-02 04:56:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-04-02 04:22:51 +0000"
@@ -14616,6 +14624,12 @@
   "techreborn:recipes/extractor/paper_from_writable_book": {
     "criteria": {
       "has_writable_book": "2025-04-02 04:34:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_axe": {
+    "criteria": {
+      "has_iron_axe": "2025-04-02 04:56:56 +0000"
     },
     "done": true
   },
@@ -14670,6 +14684,12 @@
   "stoneworks:recipes/building_blocks/prismarine_tile_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-04-02 04:38:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/mana_detector": {
+    "criteria": {
+      "has_item": "2025-04-02 04:56:39 +0000"
     },
     "done": true
   },
@@ -14970,6 +14990,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_prismarine_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-04-02 04:38:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-04-02 04:59:07 +0000"
     },
     "done": true
   },
