@@ -3645,6 +3645,7 @@
       "baked_potato": "2025-03-31 04:23:33 +0000",
       "apple": "2025-03-31 04:16:02 +0000",
       "bread": "2025-03-31 04:01:50 +0000",
+      "golden_apple": "2025-04-02 01:56:28 +0000",
       "cookie": "2025-03-31 21:38:42 +0000",
       "cooked_chicken": "2025-03-31 03:53:21 +0000",
       "carrot": "2025-04-01 04:37:27 +0000"
@@ -4092,7 +4093,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_spider_dungeon": "2025-03-31 02:52:31 +0000"
+      "in_better_spider_dungeon": "2025-03-31 02:52:31 +0000",
+      "in_better_skeleton_dungeon": "2025-04-02 01:53:23 +0000"
     },
     "done": false
   },
@@ -13629,6 +13631,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/hammers/hammer_stormlander": {
+    "criteria": {
+      "has_anvil": "2025-04-02 01:55:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-04-02 01:44:39 +0000"
@@ -13638,6 +13646,12 @@
   "twigs:recipes/tuff/tuff_slab_stonecutting": {
     "criteria": {
       "has_item": "2025-04-02 01:44:39 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/caramel_from_sugar": {
+    "criteria": {
+      "has_sugar": "2025-04-02 01:50:04 +0000"
     },
     "done": true
   },
@@ -13755,6 +13769,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-04-02 01:50:04 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_plate_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-02 01:44:39 +0000"
@@ -13797,6 +13817,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/campfire_caramel": {
+    "criteria": {
+      "has_sugar": "2025-04-02 01:50:04 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/tuff_stairs_stonecutting": {
     "criteria": {
       "has_item": "2025-04-02 01:44:39 +0000"
@@ -13806,6 +13832,12 @@
   "twigs:recipes/tuff/tuff_wall_stonecutting": {
     "criteria": {
       "has_item": "2025-04-02 01:44:39 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_gravity": {
+    "criteria": {
+      "has_anvil": "2025-04-02 01:55:25 +0000"
     },
     "done": true
   },
@@ -13983,6 +14015,12 @@
     },
     "done": true
   },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-04-02 01:53:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-04-02 01:44:39 +0000"
@@ -14004,6 +14042,12 @@
   "stoneworks:recipes/building_blocks/tuff_tile_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-02 01:44:39 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/nutty_cookie": {
+    "criteria": {
+      "has_the_recipe": "2025-04-02 01:50:04 +0000"
     },
     "done": true
   },
@@ -14037,6 +14081,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "has_sugar": "2025-04-02 01:50:04 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-02 01:44:39 +0000"
@@ -14047,6 +14097,12 @@
     "criteria": {
       "inv_changed-ender_pearl": "2025-04-02 01:36:07 +0000",
       "inv_changed-diamond": "2025-04-02 01:36:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/sugar": {
+    "criteria": {
+      "has_sugar": "2025-04-02 01:50:04 +0000"
     },
     "done": true
   },
@@ -14092,6 +14148,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/caramel_from_smoking_sugar": {
+    "criteria": {
+      "has_sugar": "2025-04-02 01:50:04 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_tuff_tiles_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-02 01:44:39 +0000"
@@ -14107,6 +14169,18 @@
   "stoneworks:recipes/building_blocks/tuff_brick_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-02 01:44:39 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/nougat": {
+    "criteria": {
+      "has_sugar": "2025-04-02 01:50:04 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/cave_pumpkin_pie": {
+    "criteria": {
+      "has_sugar": "2025-04-02 01:50:04 +0000"
     },
     "done": true
   },

@@ -2795,3 +2795,5 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
 [01:46:09] [Server thread/INFO]: Wesnoth24 has made the advancement [Full Moon in a Pocket]
+[01:53:23] [Server thread/INFO]: Wesnoth24 has made the advancement [A Bone to Pick]
+[02:03:17] [Server thread/INFO]: Wesnoth24 has made the advancement [The Ire in Fire]
