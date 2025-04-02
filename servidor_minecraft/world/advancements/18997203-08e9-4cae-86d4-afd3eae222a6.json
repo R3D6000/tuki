@@ -13740,6 +13740,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/misc/deconstruction_certus_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-04-02 02:19:02 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-02 01:44:39 +0000"
@@ -13761,6 +13767,12 @@
   "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-04-02 01:44:39 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-04-02 02:19:02 +0000"
     },
     "done": true
   },
@@ -13926,9 +13938,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/shaped/walls/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-04-02 02:19:02 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/tools/moonstone_shovel": {
     "criteria": {
       "has_item": "2025-04-02 01:46:09 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-04-02 02:19:02 +0000"
     },
     "done": true
   },
@@ -13944,9 +13968,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_pickaxe_with_mercury": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-04-02 02:17:18 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/galena_dust_from_galena_ore_with_mercury": {
     "criteria": {
       "has_tag_c_galena_ores": "2025-04-02 01:45:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_pickaxe_with_water": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-04-02 02:17:18 +0000"
     },
     "done": true
   },
@@ -13977,6 +14013,12 @@
   "twigs:recipes/rhyolite/rhyolite_stairs": {
     "criteria": {
       "has_item": "2025-04-02 02:08:56 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/cut_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-04-02 02:19:02 +0000"
     },
     "done": true
   },
@@ -14031,6 +14073,12 @@
   "travelersbackpack:recipes/misc/pumpkin_smithing": {
     "criteria": {
       "has_pumpkin": "2025-04-02 01:42:55 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/cut_quartz_block_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-02 02:19:02 +0000"
     },
     "done": true
   },
@@ -14233,6 +14281,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/block_cutter/walls/quartz_wall": {
+    "criteria": {
+      "has_quartz_block": "2025-04-02 02:19:02 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_brick_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-02 01:44:39 +0000"
@@ -14248,6 +14302,12 @@
   "betterend:recipes/misc/cave_pumpkin_pie": {
     "criteria": {
       "has_sugar": "2025-04-02 01:50:04 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/stairs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-04-02 02:19:02 +0000"
     },
     "done": true
   },
@@ -14308,6 +14368,12 @@
   "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-04-02 01:44:39 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/stairs/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-04-02 02:19:02 +0000"
     },
     "done": true
   },
