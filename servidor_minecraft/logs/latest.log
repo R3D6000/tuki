@@ -3701,3 +3701,9 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
 [05:19:46] [Server thread/WARN]: Tried to add entity aquamirae:pillagers_patrol but it was marked as removed already
+[05:26:08] [Server thread/WARN]: Tried to add entity aquamirae:pillagers_patrol but it was marked as removed already
+[05:27:19] [Server thread/WARN]: Tried to add entity aquamirae:pillagers_patrol but it was marked as removed already
+[05:29:51] [Server thread/WARN]: Tried to add entity aquamirae:pillagers_patrol but it was marked as removed already
+[05:31:49] [Worker-Main-65/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:houses/small_igloo_2/side_pool which is being called from mvs:houses/medium_igloo_2
+[05:32:40] [pool-12-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:large/village_jungle], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:small/village_dark_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mesa], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / ctov:large/village_taiga], ResourceKey[minecraft:worldgen/structure / ctov:large/village_swamp]] from pos class_2338{x=4341, y=73, z=-779}
+[05:32:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4085ms or 81 ticks behind

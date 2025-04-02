@@ -14722,6 +14722,12 @@
     },
     "done": true
   },
+  "vinery:recipes/wine_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2025-04-02 05:24:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper": {
     "criteria": {
       "has_oxidized_copper": "2025-04-02 04:36:25 +0000"
@@ -14860,6 +14866,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/tools/taglock": {
+    "criteria": {
+      "has_item": "2025-04-02 05:24:21 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/ender_pearl_to_dust": {
     "criteria": {
       "has_item.minecraft.ender_pearl": "2025-04-02 04:51:56 +0000"
@@ -14929,6 +14941,12 @@
   "stoneworks:recipes/building_blocks/prismarine_pavers_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-04-02 04:38:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/brewer_pottery_sherd": {
+    "criteria": {
+      "has_glass_bottle": "2025-04-02 05:24:21 +0000"
     },
     "done": true
   },
@@ -15034,6 +15052,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_pickaxe": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-04-02 05:25:14 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_prismarine_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-04-02 04:38:18 +0000"
@@ -15136,6 +15160,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_leggings": {
+    "criteria": {
+      "has_golden_leggings": "2025-04-02 05:25:34 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_prismarine_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-04-02 04:38:18 +0000"
@@ -15151,6 +15181,12 @@
   "techreborn:recipes/misc/crafting_table/armor/steel_leggings": {
     "criteria": {
       "has_steel_ingot": "2025-04-02 04:28:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_sword": {
+    "criteria": {
+      "has_wooden_sword": "2025-04-02 05:25:39 +0000"
     },
     "done": true
   },
