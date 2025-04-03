@@ -2964,3 +2964,64 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [04:21:25] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
 [04:21:38] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
 [04:21:38] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
+[04:34:18] [Worker-Main-16/ERROR]: ThreadLocalRandom accessed from a different thread (owner: Server thread, current: Worker-Main-16)
+Possible solutions: Find possible causes in the stack trace below and report to the corresponding mod authors 
+
+java.util.ConcurrentModificationException: ThreadLocalRandom accessed from a different thread (owner: Server thread, current: Worker-Main-16)
+	at com.ishland.uwrad.common.CheckedThreadLocalRandom.handleNotOwner(CheckedThreadLocalRandom.java:51) ~[unsafe-world-random-access-detector-1.1.0.jar:?]
+	at com.ishland.uwrad.common.CheckedThreadLocalRandom.isSafe(CheckedThreadLocalRandom.java:38) ~[unsafe-world-random-access-detector-1.1.0.jar:?]
+	at com.ishland.uwrad.common.CheckedThreadLocalRandom.next(CheckedThreadLocalRandom.java:82) ~[unsafe-world-random-access-detector-1.1.0.jar:?]
+	at net.minecraft.util.math.random.BaseRandom.nextInt(BaseRandom.java:33) ~[server-intermediary.jar:?]
+	at net.minecraft.util.math.random.Random.nextBetween(net/minecraft/class_5819.java:52) ~[server-intermediary.jar:?]
+	at com.github.thedeathlycow.frostiful.entity.WindEntity.<init>(WindEntity.java:50) ~[frostiful-1.0.8.jar:?]
+	at com.github.thedeathlycow.frostiful.entity.FreezingWindEntity.<init>(FreezingWindEntity.java:18) ~[frostiful-1.0.8.jar:?]
+	at net.minecraft.entity.EntityType.create(net/minecraft/class_1299.java:544) ~[server-intermediary.jar:?]
+	at net.minecraft.entity.EntityType.method_17846(net/minecraft/class_1299.java:548) ~[server-intermediary.jar:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.entity.EntityType.getEntityFromNbt(net/minecraft/class_1299.java:548) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.StructureTemplate.yungsapi_getEntity(com/yungnickyoung/minecraft/yungsapi/mixin/EntityProcessorMixin.java [yungsapi_fabric.mixins.json]:126) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.StructureTemplate.handler$jih001$yungsapi$processEntities(com/yungnickyoung/minecraft/yungsapi/mixin/EntityProcessorMixin.java [yungsapi_fabric.mixins.json]:62) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.StructureTemplate.place(net/minecraft/class_3499.java:347) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.pool.SinglePoolElement.generate(net/minecraft/class_3781.java:124) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.PoolStructurePiece.generate(net/minecraft/class_3790.java:89) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.PoolStructurePiece.generate(net/minecraft/class_3790.java:85) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.StructureStart.place(net/minecraft/class_3449.java:100) ~[server-intermediary.jar:?]
+	at net.minecraft.world.gen.chunk.ChunkGenerator.method_38265(net/minecraft/class_2794.java:320) ~[server-intermediary.jar:?]
+	at com.google.common.collect.ImmutableList.forEach(ImmutableList.java:422) ~[guava-31.1-jre.jar:?]
+	at net.minecraft.world.gen.chunk.ChunkGenerator.generateFeatures(net/minecraft/class_2794.java:319) ~[server-intermediary.jar:?]
+	at net.minecraft.world.chunk.ChunkStatus.method_51375(net/minecraft/class_2806.java:108) ~[server-intermediary.jar:?]
+	at net.minecraft.world.chunk.ChunkStatus$SimpleGenerationTask.doWork(ChunkStatus.java:309) ~[server-intermediary.jar:?]
+	at net.minecraft.world.chunk.ChunkStatus.runGenerationTask(net/minecraft/class_2806.java:252) ~[server-intermediary.jar:?]
+	at net.minecraft.server.world.ThreadedAnvilChunkStorage.method_17225(net/minecraft/class_3898.java:684) ~[server-intermediary.jar:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar:?]
+	at net.minecraft.server.world.ThreadedAnvilChunkStorage.method_17224(net/minecraft/class_3898.java:673) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.world.ChunkTaskPrioritySystem.method_17634(ChunkTaskPrioritySystem.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.TaskExecutor.runNext(TaskExecutor.java:91) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.TaskExecutor.runWhile(TaskExecutor.java:146) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.TaskExecutor.run(TaskExecutor.java:102) ~[server-intermediary.jar:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[04:34:48] [Worker-Main-17/WARN]: Tried to access a block entity before it was created. class_2338{x=4716, y=72, z=291}
+[04:34:48] [Worker-Main-17/WARN]: Tried to access a block entity before it was created. class_2338{x=4716, y=72, z=291}
+[04:35:03] [Server thread/INFO]: Wesnoth24 has made the advancement [I was here, i lived, i..]
+[04:38:59] [pool-12-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:large/village_swamp], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_plains], ResourceKey[minecraft:worldgen/structure / ctov:small/village_dark_forest], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mushroom], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / ctov:small/village_desert], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_beach], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes]] from pos class_2338{x=4603, y=68, z=347}
+[04:40:44] [Server thread/INFO]: Villager class_1646['Salvatore'/4664, l='ServerLevel[world]', x=4768.50, y=68.00, z=323.30] died, message: 'Salvatore froze to death'
+[04:40:44] [Server thread/INFO]: Named entity class_1646['Salvatore'/4664, l='ServerLevel[world]', x=4768.50, y=68.00, z=323.30] died: Salvatore froze to death
+[04:42:10] [Server thread/INFO]: Villager class_1646['Luther'/4850, l='ServerLevel[world]', x=4742.86, y=73.17, z=317.85] died, message: 'Luther was slain by Revenant'
+[04:42:10] [Server thread/INFO]: Named entity class_1646['Luther'/4850, l='ServerLevel[world]', x=4742.86, y=73.17, z=317.85] died: Luther was slain by Revenant
+[04:42:11] [Server thread/INFO]: Villager class_1646['Jennie'/4861, l='ServerLevel[world]', x=4739.30, y=55.00, z=308.50] died, message: 'Jennie was slain by Revenant'
+[04:42:11] [Server thread/INFO]: Named entity class_1646['Jennie'/4861, l='ServerLevel[world]', x=4739.30, y=55.00, z=308.50] died: Jennie was slain by Revenant
+[04:43:07] [Server thread/INFO]: Villager class_1646['Brant'/4856, l='ServerLevel[world]', x=4688.90, y=45.00, z=242.08] died, message: 'Brant hit the ground too hard whilst trying to escape Zombie'
+[04:43:07] [Server thread/INFO]: Named entity class_1646['Brant'/4856, l='ServerLevel[world]', x=4688.90, y=45.00, z=242.08] died: Brant was doomed to fall by Zombie
+[04:43:59] [Server thread/INFO]: Wesnoth24 has made the advancement [Packed In]
+[04:44:53] [Server thread/INFO]: Villager class_1646['Benton'/5255, l='ServerLevel[world]', x=4696.52, y=67.92, z=262.41] died, message: 'Benton was slain by Zombie'
+[04:44:53] [Server thread/INFO]: Named entity class_1646['Benton'/5255, l='ServerLevel[world]', x=4696.52, y=67.92, z=262.41] died: Benton was slain by Zombie
+[04:47:45] [Server thread/INFO]: Villager class_1646['Freeman'/5249, l='ServerLevel[world]', x=4758.50, y=66.63, z=321.30] died, message: 'Freeman froze to death'
+[04:47:45] [Server thread/INFO]: Named entity class_1646['Freeman'/5249, l='ServerLevel[world]', x=4758.50, y=66.63, z=321.30] died: Freeman froze to death
+[04:48:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3609ms or 72 ticks behind
