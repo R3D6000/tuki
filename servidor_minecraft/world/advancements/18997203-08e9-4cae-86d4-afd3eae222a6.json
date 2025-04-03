@@ -15577,6 +15577,18 @@
     },
     "done": true
   },
+  "frostiful:recipes/decorations/packed_snow": {
+    "criteria": {
+      "has_packed_snow_block": "2025-04-03 04:54:23 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/packed_snow_brick_stairs_from_block_stonecutting": {
+    "criteria": {
+      "has_packed_snow_block": "2025-04-03 04:54:23 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_shivering_bow": {
     "criteria": {
       "has_blue_ice": "2025-04-03 04:35:04 +0000"
@@ -15586,6 +15598,12 @@
   "botania:recipes/misc/quartz_blaze": {
     "criteria": {
       "has_item": "2025-04-03 04:26:18 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/packed_snow_bricks_from_block_stonecutting": {
+    "criteria": {
+      "has_packed_snow_block": "2025-04-03 04:54:23 +0000"
     },
     "done": true
   },
@@ -15697,9 +15715,27 @@
     },
     "done": true
   },
+  "frostiful:recipes/building_block/packed_snow_brick_wall_from_block_stonecutting": {
+    "criteria": {
+      "has_packed_snow_block": "2025-04-03 04:54:23 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/smooth_stone_bricks/smooth_stone_bricks": {
     "criteria": {
       "has_smooth_stone": "2025-04-03 04:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-03 04:50:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-03 04:51:35 +0000"
     },
     "done": true
   },
@@ -15721,15 +15757,33 @@
     },
     "done": true
   },
+  "frostiful:recipes/combat/weapon/frost_tipped_arrow": {
+    "criteria": {
+      "has_icicle": "2025-04-03 04:55:06 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_undead_pirate_ship": {
     "criteria": {
       "location0": "2025-04-03 04:20:22 +0000"
     },
     "done": true
   },
+  "frostiful:recipes/building_block/packed_snow_block_from_snowballs": {
+    "criteria": {
+      "has_packed_snowball": "2025-04-03 04:54:47 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/building_block/cut_blue_ice_slab_from_blue_ice_stonecutting": {
     "criteria": {
       "has_blue_ice": "2025-04-03 04:35:04 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/packed_snow_brick_slab_from_block_stonecutting": {
+    "criteria": {
+      "has_packed_snow_block": "2025-04-03 04:54:23 +0000"
     },
     "done": true
   },
@@ -15781,6 +15835,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/spruce_shrub": {
+    "criteria": {
+      "has_spruce_sapling": "2025-04-03 04:47:14 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/quartz_lavender": {
     "criteria": {
       "has_item": "2025-04-03 04:26:18 +0000"
@@ -15793,6 +15853,18 @@
     },
     "done": true
   },
+  "frostiful:recipes/misc/ice": {
+    "criteria": {
+      "has_icicle": "2025-04-03 04:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-04-03 04:50:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-04-03 04:26:18 +0000"
@@ -15802,6 +15874,12 @@
   "techreborn:recipes/assembling_machine/sentry_armor_trim_smithing_template": {
     "criteria": {
       "has_smooth_stone": "2025-04-03 04:39:14 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/misc/fur_upgrade_template": {
+    "criteria": {
+      "has_fur_upgrade_template": "2025-04-03 04:54:36 +0000"
     },
     "done": true
   },
@@ -15841,6 +15919,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/string_from_banner": {
+    "criteria": {
+      "has_banner": "2025-04-03 04:51:41 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/nether_quartz_sword": {
     "criteria": {
       "has_nether_quartz": "2025-04-03 04:26:18 +0000"
@@ -15862,6 +15946,12 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-04-03 04:26:18 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/packed_snow_bricks": {
+    "criteria": {
+      "has_packed_snow_block": "2025-04-03 04:54:23 +0000"
     },
     "done": true
   },

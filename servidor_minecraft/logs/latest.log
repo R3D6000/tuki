@@ -3025,3 +3025,8 @@ java.util.ConcurrentModificationException: ThreadLocalRandom accessed from a dif
 [04:47:45] [Server thread/INFO]: Villager class_1646['Freeman'/5249, l='ServerLevel[world]', x=4758.50, y=66.63, z=321.30] died, message: 'Freeman froze to death'
 [04:47:45] [Server thread/INFO]: Named entity class_1646['Freeman'/5249, l='ServerLevel[world]', x=4758.50, y=66.63, z=321.30] died: Freeman froze to death
 [04:48:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3609ms or 72 ticks behind
+[04:49:54] [Server thread/INFO]: Villager class_1646['Jessie'/4860, l='ServerLevel[world]', x=4745.48, y=85.16, z=367.30] died, message: 'Jessie was frozen to death by Chillager'
+[04:49:54] [Server thread/INFO]: Named entity class_1646['Jessie'/4860, l='ServerLevel[world]', x=4745.48, y=85.16, z=367.30] died: Jessie was frozen to death by Chillager
+[04:50:55] [Server thread/INFO]: Wesnoth24 has made the advancement [Ol' Betsy]
+[04:50:55] [Server thread/INFO]: Wesnoth24 has made the advancement [Take Aim]
+[04:51:35] [Server thread/INFO]: Wesnoth24 has made the advancement [Voluntary Exile]
