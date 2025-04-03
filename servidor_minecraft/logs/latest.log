@@ -2960,3 +2960,7 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [04:18:08] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Wesnoth24. Claiming: GRAVE / Robbing: INVENTORY
 [04:18:13] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Wesnoth24 accepted server config.
 [04:18:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3199ms or 63 ticks behind
+[04:20:22] [Server thread/INFO]: Wesnoth24 has made the advancement [Smoke On The Water]
+[04:21:25] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
+[04:21:38] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
+[04:21:38] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
