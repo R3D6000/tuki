@@ -15577,6 +15577,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-04-03 05:48:42 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/decorations/packed_snow": {
     "criteria": {
       "has_packed_snow_block": "2025-04-03 04:54:23 +0000"
@@ -15673,6 +15679,12 @@
     },
     "done": true
   },
+  "mcda:recipes/upgrade_cores/upgrade_core_highland": {
+    "criteria": {
+      "has_core_specification_item": "2025-04-03 05:48:42 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/building_block/cut_blue_ice_stairs_from_blue_ice_stonecutting": {
     "criteria": {
       "has_blue_ice": "2025-04-03 04:35:04 +0000"
@@ -15712,6 +15724,12 @@
   "twigs:recipes/smooth_stone_bricks/smooth_stone_bricks_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-04-03 04:39:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/emerald_plate_from_block": {
+    "criteria": {
+      "has_emerald_block": "2025-04-03 05:48:42 +0000"
     },
     "done": true
   },
