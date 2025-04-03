@@ -15697,6 +15697,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-04-03 06:10:04 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
       "killed_iceologer": "2025-04-03 04:35:03 +0000"
@@ -15832,6 +15838,12 @@
   "frostiful:recipes/building_block/packed_snow_brick_slab_from_block_stonecutting": {
     "criteria": {
       "has_packed_snow_block": "2025-04-03 04:54:23 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-04-03 06:09:42 +0000"
     },
     "done": true
   },
