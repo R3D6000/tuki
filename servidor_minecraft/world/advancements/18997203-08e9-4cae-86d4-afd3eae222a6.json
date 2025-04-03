@@ -15715,6 +15715,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/roasted_pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin_seed": "2025-04-03 05:11:31 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/building_block/packed_snow_brick_wall_from_block_stonecutting": {
     "criteria": {
       "has_packed_snow_block": "2025-04-03 04:54:23 +0000"
