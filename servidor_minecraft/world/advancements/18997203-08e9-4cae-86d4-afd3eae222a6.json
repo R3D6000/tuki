@@ -15643,6 +15643,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/heart_pottery_sherd": {
+    "criteria": {
+      "has_heart_of_the_sea": "2025-04-03 05:54:46 +0000"
+    },
+    "done": true
+  },
   "quartzelv:recipes/building_blocks/quartz_elevator": {
     "criteria": {
       "has_quartz": "2025-04-03 04:26:18 +0000"
@@ -15715,6 +15721,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/heart_of_the_sea_with_water": {
+    "criteria": {
+      "has_heart_of_the_sea": "2025-04-03 05:54:46 +0000"
+    },
+    "done": true
+  },
   "spellbladenext:spellblades/monkeyking": {
     "criteria": {
       "arcane": "2025-04-03 05:26:49 +0000"
@@ -15736,6 +15748,12 @@
   "twigs:recipes/bloodstone/bloodstone": {
     "criteria": {
       "has_item": "2025-04-03 04:26:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/water_ring": {
+    "criteria": {
+      "has_item": "2025-04-03 05:54:46 +0000"
     },
     "done": true
   },
@@ -15886,6 +15904,12 @@
   "frostiful:recipes/misc/ice": {
     "criteria": {
       "has_icicle": "2025-04-03 04:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-04-03 05:54:46 +0000"
     },
     "done": true
   },
