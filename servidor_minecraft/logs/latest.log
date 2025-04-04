@@ -3019,3 +3019,9 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [04:07:41] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_breath Entity not found: 6263
 [04:12:31] [Server thread/INFO]: Villager class_1646['Zoila'/315, l='ServerLevel[world]', x=1139.43, y=70.00, z=13.92] died, message: 'Zoila hit the ground too hard'
 [04:12:31] [Server thread/INFO]: Named entity class_1646['Zoila'/315, l='ServerLevel[world]', x=1139.43, y=70.00, z=13.92] died: Zoila fell from a high place
+[04:53:41] [Server thread/INFO]: Villager class_1646['Jan'/14674, l='ServerLevel[world]', x=4705.85, y=68.00, z=309.87] died, message: 'Jan was shot by Chillager'
+[04:53:41] [Server thread/INFO]: Named entity class_1646['Jan'/14674, l='ServerLevel[world]', x=4705.85, y=68.00, z=309.87] died: Jan was shot by Chillager
+[04:53:43] [Server thread/INFO]: Villager class_1646['Issac'/14725, l='ServerLevel[world]', x=4702.40, y=68.00, z=309.41] died, message: 'Issac was shot by Chillager'
+[04:53:43] [Server thread/INFO]: Named entity class_1646['Issac'/14725, l='ServerLevel[world]', x=4702.40, y=68.00, z=309.41] died: Issac was shot by Chillager
+[04:53:53] [Server thread/INFO]: Villager class_1646['Annabell'/14727, l='ServerLevel[world]', x=4704.97, y=69.00, z=308.30] died, message: 'Annabell was shot by Chillager'
+[04:53:53] [Server thread/INFO]: Named entity class_1646['Annabell'/14727, l='ServerLevel[world]', x=4704.97, y=69.00, z=308.30] died: Annabell was shot by Chillager
