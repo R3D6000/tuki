@@ -3013,3 +3013,7 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	... 29 more
 [03:39:09] [Server thread/INFO]: Wesnoth24 has made the advancement [Enchanter]
 [03:40:55] [Server thread/INFO]: Wesnoth24 has made the advancement [The Basics]
+[04:01:54] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: wizards:fire isComplete: false
+[04:04:18] [Server thread/INFO]: Wesnoth24 has made the advancement [Cover Me with Diamonds]
+[04:07:41] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_breath Entity not found: 6263
+[04:07:41] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_breath Entity not found: 6263
