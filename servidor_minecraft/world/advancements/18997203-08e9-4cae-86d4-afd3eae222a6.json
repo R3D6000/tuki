@@ -610,11 +610,13 @@
       "cold_river": "2025-03-31 04:13:03 +0000",
       "pumpkin_fields": "2025-03-31 04:01:15 +0000",
       "pine_slopes": "2025-04-01 04:45:55 +0000",
+      "spires": "2025-04-04 05:37:02 +0000",
       "grassland": "2025-03-31 04:41:58 +0000",
       "prairie": "2025-03-31 04:42:19 +0000",
       "gravel_beach": "2025-03-31 03:54:43 +0000",
       "redwoods": "2025-04-01 05:10:05 +0000",
       "hyacinth_deeps": "2025-04-02 05:23:16 +0000",
+      "icy_heights": "2025-04-04 05:37:32 +0000",
       "lupine_plains": "2025-03-31 02:26:16 +0000"
     },
     "done": false
@@ -651,11 +653,13 @@
       "cold_river": "2025-03-31 04:13:03 +0000",
       "pumpkin_fields": "2025-03-31 04:01:15 +0000",
       "pine_slopes": "2025-04-01 04:45:55 +0000",
+      "spires": "2025-04-04 05:37:02 +0000",
       "grassland": "2025-03-31 04:41:58 +0000",
       "prairie": "2025-03-31 04:42:19 +0000",
       "gravel_beach": "2025-03-31 03:54:43 +0000",
       "redwoods": "2025-04-01 05:10:05 +0000",
       "hyacinth_deeps": "2025-04-02 05:23:16 +0000",
+      "icy_heights": "2025-04-04 05:37:32 +0000",
       "lupine_plains": "2025-03-31 02:26:16 +0000"
     },
     "done": false
@@ -3120,6 +3124,7 @@
       "minecraft:skeleton": "2025-03-31 05:04:10 +0000",
       "minecraft:vindicator": "2025-04-02 05:11:49 +0000",
       "minecraft:spider": "2025-03-31 05:05:02 +0000",
+      "minecraft:piglin_brute": "2025-04-04 05:33:49 +0000",
       "minecraft:creeper": "2025-03-31 20:59:20 +0000",
       "minecraft:phantom": "2025-04-03 04:21:16 +0000",
       "minecraft:witch": "2025-04-01 04:50:51 +0000",
@@ -16304,6 +16309,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/campfire_molasses": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-04 05:36:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/powered_latch": {
     "criteria": {
       "has_item": "2025-04-04 05:28:26 +0000"
@@ -16319,6 +16330,12 @@
   "fwaystones:recipes/deepslate_waystone": {
     "criteria": {
       "has_abyss_watcher": "2025-04-04 04:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-04 05:36:29 +0000"
     },
     "done": true
   },
@@ -16373,6 +16390,12 @@
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-04-04 04:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-04 05:36:29 +0000"
     },
     "done": true
   },
@@ -16454,6 +16477,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-04-04 05:35:30 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_pillar_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-04 04:29:37 +0000"
@@ -16511,6 +16540,12 @@
   "stoneworks:recipes/building_blocks/mossy_andesite_brick_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-04 04:29:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-04 05:36:29 +0000"
     },
     "done": true
   },
@@ -16700,6 +16735,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/molasses_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-04 05:36:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-04-04 04:29:37 +0000"
@@ -16748,6 +16789,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/paper": {
+    "criteria": {
+      "has_the_recipe": "2025-04-04 05:36:29 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wood_plate": {
     "criteria": {
       "has_wood_plate": "2025-04-04 05:18:07 +0000"
@@ -16781,6 +16828,12 @@
   "handcrafted:recipes/misc/kitchen_hood": {
     "criteria": {
       "has_kitchen_hood": "2025-04-04 04:24:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-04 05:36:29 +0000"
     },
     "done": true
   },
@@ -16859,6 +16912,12 @@
   "create:recipes/building_blocks/polished_cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-04-04 03:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-04 05:35:30 +0000"
     },
     "done": true
   },
@@ -17063,6 +17122,12 @@
   "techreborn:recipes/industrial_grinder/diamond_dust_from_chestplate_with_water": {
     "criteria": {
       "has_diamond_chestplate": "2025-04-04 04:04:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-04 05:36:29 +0000"
     },
     "done": true
   },
@@ -17384,6 +17449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-04 05:35:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-04-04 05:28:26 +0000"
@@ -17681,6 +17752,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-04-04 03:48:29 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2025-04-04 05:33:25 +0000"
     },
     "done": true
   },
