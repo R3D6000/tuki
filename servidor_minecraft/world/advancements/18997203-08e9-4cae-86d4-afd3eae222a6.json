@@ -758,6 +758,7 @@
       "minecraft:birch_forest": "2025-04-01 05:25:35 +0000",
       "minecraft:windswept_hills": "2025-03-31 04:25:32 +0000",
       "minecraft:bamboo_jungle": "2025-04-01 05:47:54 +0000",
+      "minecraft:savanna_plateau": "2025-04-05 22:23:56 +0000",
       "minecraft:beach": "2025-03-31 03:56:44 +0000",
       "minecraft:dark_forest": "2025-04-01 05:11:36 +0000",
       "minecraft:stony_peaks": "2025-04-05 22:16:36 +0000",
@@ -17951,6 +17952,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/orange_sapling": {
+    "criteria": {
+      "has_orange": "2025-04-05 22:22:38 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_mossy_cobblestone": {
     "criteria": {
       "has_item": "2025-04-05 22:08:10 +0000"
@@ -17990,6 +17997,12 @@
   "bewitchment:recipes/decorations/mossy_cobblestone_witch_altar": {
     "criteria": {
       "has_item": "2025-04-05 22:08:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/orange_juice": {
+    "criteria": {
+      "has_orange": "2025-04-05 22:22:38 +0000"
     },
     "done": true
   },
