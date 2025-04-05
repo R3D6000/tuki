@@ -17965,6 +17965,12 @@
     },
     "done": true
   },
+  "simplyswords:wickpiercer": {
+    "criteria": {
+      "requirement": "2025-04-05 23:29:20 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-05 22:43:39 +0000"

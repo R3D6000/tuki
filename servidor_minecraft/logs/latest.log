@@ -3625,3 +3625,12 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [23:14:24] [Server thread/INFO]: <Wesnoth24> mano me perdi xd
 [23:24:16] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
 [23:24:20] [pool-12-thread-7/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:medium/village_taiga], ResourceKey[minecraft:worldgen/structure / ctov:large/village_dark_forest], ResourceKey[minecraft:worldgen/structure / ctov:large/village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / ctov:large/village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / ctov:small/village_swamp]] from pos class_2338{x=667, y=71, z=4677}
+[23:28:56] [Server thread/INFO]: FABERIK360 has made the advancement [Wax Off]
+[23:29:20] [Server thread/INFO]: Wesnoth24 has made the advancement [Wax Off]
+[23:30:56] [Worker-Main-46/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[23:31:16] [Worker-Main-10/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[23:31:37] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=202, y=71, z=5440}
+[23:31:37] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=202, y=71, z=5440}
+[23:31:40] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Wesnoth24 accepted server config.
+[23:31:42] [Server thread/INFO]: FABERIK360 has made the advancement [Behind bars]
+[23:31:42] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of FABERIK360 accepted server config.
