@@ -2998,3 +2998,5 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [21:41:29] [pool-12-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / ctov:large/village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / ctov:large/village_underground], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mesa], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / ctov:small/village_savanna]] from pos class_2338{x=4565, y=67, z=651}
 [21:41:29] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
 [21:41:29] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
+[21:44:50] [Server thread/INFO]: FABERIK360 has made the advancement [Create: Estrogen]
+[21:45:36] [Server thread/INFO]: FABERIK360 has made the advancement [Arcane Empowerment]
