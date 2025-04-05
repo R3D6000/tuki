@@ -9965,6 +9965,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-05 22:31:32 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/spruce_poppet_shelf": {
     "criteria": {
       "has_item": "2025-04-05 21:56:56 +0000"
@@ -10091,6 +10097,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/skull_pottery_sherd": {
+    "criteria": {
+      "has_skeleton_skull": "2025-04-05 22:31:26 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/diamond_hammer": {
     "criteria": {
       "has_material": "2025-04-05 22:28:43 +0000"
@@ -10139,6 +10151,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-04-05 22:33:03 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_cupboard": {
     "criteria": {
       "has_spruce_cupboard": "2025-04-05 21:49:38 +0000"
@@ -10184,6 +10202,12 @@
   "techreborn:recipes/blast_furnace/prize_pottery_sherd": {
     "criteria": {
       "has_diamond": "2025-04-05 22:28:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/virus_nullodermal": {
+    "criteria": {
+      "has_alt_item": "2025-04-05 22:31:26 +0000"
     },
     "done": true
   },
@@ -10367,6 +10391,18 @@
     },
     "done": true
   },
+  "naturalist:recipes/naturalist/bug_net": {
+    "criteria": {
+      "has_bamboo": "2025-04-05 22:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-04-05 22:33:11 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-04-05 22:28:43 +0000"
@@ -10409,6 +10445,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/chemical_reactor/glistering_melon_slice": {
+    "criteria": {
+      "has_melon_slice": "2025-04-05 22:33:11 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_torch": {
+    "criteria": {
+      "has_bamboo": "2025-04-05 22:33:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_shingles_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-04-05 21:57:10 +0000"
@@ -10439,6 +10487,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/mango_sapling": {
+    "criteria": {
+      "has_mango": "2025-04-05 22:32:33 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/grapevine_stem": {
     "criteria": {
       "has_oak_log": "2025-04-05 21:41:32 +0000"
@@ -10448,6 +10502,12 @@
   "estrogen:root": {
     "criteria": {
       "root": "2025-04-05 21:44:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-04-05 22:33:11 +0000"
     },
     "done": true
   },
@@ -10469,9 +10529,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-04-05 22:33:03 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/wire_mill/copper_cable": {
     "criteria": {
       "has_copper_ingot": "2025-04-05 21:57:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-04-05 22:33:11 +0000"
     },
     "done": true
   },
@@ -10577,6 +10649,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2025-04-05 22:33:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-04-05 21:57:10 +0000"
@@ -10586,6 +10664,12 @@
   "techreborn:recipes/misc/crafting_table/ingot/refined_iron_ingot_from_block": {
     "criteria": {
       "has_refined_iron_storage_block": "2025-04-05 21:47:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-04-05 22:33:11 +0000"
     },
     "done": true
   },
@@ -10628,6 +10712,12 @@
   "handcrafted:recipes/misc/spruce_corner_trim": {
     "criteria": {
       "has_spruce_corner_trim": "2025-04-05 21:49:38 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
+    "criteria": {
+      "has_the_recipe": "2025-04-05 22:31:26 +0000"
     },
     "done": true
   },
@@ -10679,9 +10769,22 @@
     },
     "done": true
   },
+  "croptopia:recipes/mango_ice_cream": {
+    "criteria": {
+      "has_mango": "2025-04-05 22:32:33 +0000",
+      "has_the_recipe": "2025-04-05 22:32:33 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/acacia_poppet_shelf": {
     "criteria": {
       "has_item": "2025-04-05 21:56:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_the_recipe": "2025-04-05 22:31:26 +0000"
     },
     "done": true
   },
@@ -10706,6 +10809,12 @@
   "create:recipes/misc/crafting/kinetics/fluid_valve": {
     "criteria": {
       "has_item": "2025-04-05 21:57:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-04-05 22:33:11 +0000"
     },
     "done": true
   },
@@ -10776,6 +10885,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-04-05 22:33:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-05 22:19:05 +0000"
@@ -10818,6 +10933,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-04-05 22:33:11 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bamboo_mat": {
+    "criteria": {
+      "has_bamboo": "2025-04-05 22:33:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2025-04-05 21:57:10 +0000"
@@ -10833,6 +10960,12 @@
   "ae2:recipes/misc/network/cables/glass_brown": {
     "criteria": {
       "has_dyes/black": "2025-04-05 22:27:29 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/ghostly_helmet": {
+    "criteria": {
+      "has_skeleton_skull": "2025-04-05 22:31:26 +0000"
     },
     "done": true
   },
@@ -10908,9 +11041,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/mango_ice_cream": {
+    "criteria": {
+      "has_mango": "2025-04-05 22:32:33 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/wild_armor_trim_smithing_template": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-05 22:19:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/melon_slice": {
+    "criteria": {
+      "has_melon_slice": "2025-04-05 22:33:11 +0000"
     },
     "done": true
   },
@@ -10923,6 +11068,12 @@
   "oxidized:recipes/copper_pan": {
     "criteria": {
       "has_copper_block": "2025-04-05 21:57:10 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/poppy": {
+    "criteria": {
+      "has_flower": "2025-04-05 22:31:32 +0000"
     },
     "done": true
   },
@@ -10986,6 +11137,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/melon_juice": {
+    "criteria": {
+      "has_melon": "2025-04-05 22:33:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-04-05 22:28:43 +0000"
@@ -11004,6 +11161,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-05 22:31:32 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/storage_block/copper_wall": {
     "criteria": {
       "has_copper": "2025-04-05 21:57:10 +0000"
@@ -11019,6 +11182,12 @@
   "techreborn:recipes/misc/crafting_table/storage_block/refined_iron_blocks_wall": {
     "criteria": {
       "has_tag_c_refined_iron_blocks": "2025-04-05 21:47:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-05 22:33:32 +0000"
     },
     "done": true
   },
@@ -11043,6 +11212,12 @@
   "handcrafted:recipes/misc/spruce_bench": {
     "criteria": {
       "has_spruce_bench": "2025-04-05 21:49:38 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/skeleton_skull_to_bonemeal": {
+    "criteria": {
+      "has_skeleton_skull": "2025-04-05 22:31:26 +0000"
     },
     "done": true
   },
