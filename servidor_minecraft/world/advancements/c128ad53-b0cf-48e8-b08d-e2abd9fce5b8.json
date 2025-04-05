@@ -10141,6 +10141,12 @@
     },
     "done": true
   },
+  "minecells:promenade": {
+    "criteria": {
+      "requirement": "2025-04-05 23:48:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-04-05 21:46:28 +0000"
@@ -10192,6 +10198,12 @@
   "betterend:recipes/decorations/umbrella_tree_hanging_sign": {
     "criteria": {
       "has_chain": "2025-04-05 23:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-05 23:46:18 +0000"
     },
     "done": true
   },
@@ -10687,6 +10699,12 @@
     },
     "done": true
   },
+  "minecells:book/mobs/runner": {
+    "criteria": {
+      "requirement": "2025-04-05 23:49:38 +0000"
+    },
+    "done": true
+  },
   "croptopia:gather_food": {
     "criteria": {
       "glowing_calamari": "2025-04-05 23:03:01 +0000"
@@ -10720,6 +10738,12 @@
   "handcrafted:recipes/misc/spruce_pillar_trim": {
     "criteria": {
       "has_spruce_pillar_trim": "2025-04-05 21:49:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-04-05 23:46:18 +0000"
     },
     "done": true
   },
@@ -10795,6 +10819,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/flint_from_gravel": {
+    "criteria": {
+      "has_gravel": "2025-04-05 23:48:44 +0000"
+    },
+    "done": true
+  },
   "alloy_forgery:recipes/alloy_forgery/copper_block": {
     "criteria": {
       "has_the_recipe": "2025-04-05 21:57:10 +0000"
@@ -10846,6 +10876,12 @@
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-04-05 22:28:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-04-05 23:48:44 +0000"
     },
     "done": true
   },
@@ -11239,6 +11275,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-04-05 23:48:44 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/cherry_shrub": {
     "criteria": {
       "has_cherry_sapling": "2025-04-05 22:15:38 +0000"
@@ -11353,6 +11395,12 @@
     },
     "done": true
   },
+  "minecells:book/mobs/protector": {
+    "criteria": {
+      "requirement": "2025-04-05 23:52:08 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/ingot/refined_iron_ingot_from_block": {
     "criteria": {
       "has_refined_iron_storage_block": "2025-04-05 21:47:19 +0000"
@@ -11416,6 +11464,12 @@
   "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
     "criteria": {
       "has_the_recipe": "2025-04-05 22:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/mutated_bat": {
+    "criteria": {
+      "requirement": "2025-04-05 23:49:08 +0000"
     },
     "done": true
   },
@@ -11799,6 +11853,12 @@
     },
     "done": true
   },
+  "minecells:unlock/run_in_the_promenade": {
+    "criteria": {
+      "run": "2025-04-05 23:48:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2025-04-05 22:27:29 +0000"
@@ -11850,6 +11910,12 @@
   "create:copper": {
     "criteria": {
       "0": "2025-04-05 21:57:10 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/gravel_bricks/gravel_bricks": {
+    "criteria": {
+      "has_item": "2025-04-05 23:48:44 +0000"
     },
     "done": true
   },
@@ -12123,6 +12189,12 @@
     },
     "done": true
   },
+  "brewery:recipes/breathalyzer": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-05 23:46:18 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/melon_juice": {
     "criteria": {
       "has_melon": "2025-04-05 22:33:11 +0000"
@@ -12249,6 +12321,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-04-05 23:48:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-04-05 22:33:32 +0000"
@@ -12294,6 +12372,12 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-04-05 22:43:51 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_freezing_foil": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-05 23:46:18 +0000"
     },
     "done": true
   },
@@ -12390,6 +12474,12 @@
   "create:recipes/building_blocks/cut_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-04-05 22:56:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-05 23:46:18 +0000"
     },
     "done": true
   },

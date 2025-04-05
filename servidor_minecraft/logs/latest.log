@@ -3636,3 +3636,7 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [23:31:42] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of FABERIK360 accepted server config.
 [23:40:25] [Server thread/INFO]: FABERIK360 has made the advancement [A crafter that runs on cells...]
 [23:40:31] [Server thread/INFO]: Wesnoth24 has made the advancement [A crafter that runs on cells...]
+[23:48:15] [Server thread/INFO]: FABERIK360 has made the advancement [Love the serenity...]
+[23:48:15] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of FABERIK360 accepted server config.
+[23:48:19] [Server thread/INFO]: Wesnoth24 has made the advancement [Love the serenity...]
+[23:48:19] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Wesnoth24 accepted server config.
