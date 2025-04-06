@@ -10159,6 +10159,12 @@
     },
     "done": true
   },
+  "minecells:unlock/kill_30_leaping_zombies": {
+    "criteria": {
+      "leaping_zombies_killed": "2025-04-05 23:55:58 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_tile_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-05 22:43:23 +0000"
@@ -10456,6 +10462,12 @@
   "handcrafted:recipes/misc/spruce_cupboard": {
     "criteria": {
       "has_spruce_cupboard": "2025-04-05 21:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecells:elite": {
+    "criteria": {
+      "obelisk_activated": "2025-04-05 23:56:23 +0000"
     },
     "done": true
   },
